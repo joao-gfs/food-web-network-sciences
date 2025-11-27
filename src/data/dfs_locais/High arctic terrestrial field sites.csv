@@ -1,0 +1,36 @@
+autoID,interaction.type,con.taxonomy,con.taxonomy.level,res.taxonomy,res.taxonomy.level,geographic.location,con.movement.type,res.movement.type
+160112,predacious,Canis lupus arctos,species,Lepus arcticus,species,High arctic terrestrial field sites,walking,walking
+160113,predacious,Canis lupus arctos,species,Rangifer tarandus,species,High arctic terrestrial field sites,walking,walking
+160114,predacious,Canis lupus arctos,species,Ovibos moschatus,species,High arctic terrestrial field sites,walking,walking
+160145,predacious,Bubo scandiacus,species,Mustela erminea,species,High arctic terrestrial field sites,flying,walking
+160180,predacious,Mustela erminea,species,Microtus oeconomus,species,High arctic terrestrial field sites,walking,walking
+160182,predacious,Vulpes lagopus,species,Microtus oeconomus,species,High arctic terrestrial field sites,walking,walking
+160185,predacious,Vulpes vulpes,species,Microtus oeconomus,species,High arctic terrestrial field sites,walking,walking
+160189,predacious,Gulo gulo,species,Microtus oeconomus,species,High arctic terrestrial field sites,walking,walking
+160190,predacious,Gulo gulo,species,Rangifer tarandus,species,High arctic terrestrial field sites,walking,walking
+160193,predacious,Ursus horribilis,species,Rangifer tarandus,species,High arctic terrestrial field sites,walking,walking
+160194,predacious,Ursus horribilis,species,Ovibos moschatus,species,High arctic terrestrial field sites,walking,walking
+160199,predacious,Bubo scandiacus,species,Mustela erminea,species,High arctic terrestrial field sites,flying,walking
+160201,predacious,Bubo scandiacus,species,Microtus oeconomus,species,High arctic terrestrial field sites,flying,walking
+160203,predacious,Buteo lagopus,species,Microtus oeconomus,species,High arctic terrestrial field sites,flying,walking
+160241,predacious,Mustela erminea,species,Microtus oeconomus,species,High arctic terrestrial field sites,walking,walking
+160243,predacious,Vulpes lagopus,species,Microtus oeconomus,species,High arctic terrestrial field sites,walking,walking
+160244,predacious,Vulpes lagopus,species,Lepus arcticus,species,High arctic terrestrial field sites,walking,walking
+160250,predacious,Vulpes vulpes,species,Microtus oeconomus,species,High arctic terrestrial field sites,walking,walking
+160251,predacious,Vulpes vulpes,species,Lepus arcticus,species,High arctic terrestrial field sites,walking,walking
+160256,predacious,Gulo gulo,species,Lepus arcticus,species,High arctic terrestrial field sites,walking,walking
+160257,predacious,Gulo gulo,species,Rangifer tarandus,species,High arctic terrestrial field sites,walking,walking
+160260,predacious,Ursus horribilis,species,Lepus arcticus,species,High arctic terrestrial field sites,walking,walking
+160261,predacious,Ursus horribilis,species,Rangifer tarandus,species,High arctic terrestrial field sites,walking,walking
+160272,predacious,Bubo scandiacus,species,Microtus oeconomus,species,High arctic terrestrial field sites,flying,walking
+160275,predacious,Buteo lagopus,species,Microtus oeconomus,species,High arctic terrestrial field sites,flying,walking
+160334,predacious,Mustela erminea,species,Microtus oeconomus,species,High arctic terrestrial field sites,walking,walking
+160336,predacious,Vulpes lagopus,species,Microtus oeconomus,species,High arctic terrestrial field sites,walking,walking
+160337,predacious,Vulpes lagopus,species,Lepus arcticus,species,High arctic terrestrial field sites,walking,walking
+160343,predacious,Vulpes vulpes,species,Microtus oeconomus,species,High arctic terrestrial field sites,walking,walking
+160344,predacious,Vulpes vulpes,species,Lepus arcticus,species,High arctic terrestrial field sites,walking,walking
+160349,predacious,Gulo gulo,species,Lepus arcticus,species,High arctic terrestrial field sites,walking,walking
+160350,predacious,Gulo gulo,species,Rangifer tarandus,species,High arctic terrestrial field sites,walking,walking
+160361,predacious,Buteo lagopus,species,Microtus oeconomus,species,High arctic terrestrial field sites,flying,walking
+160392,predacious,Vulpes lagopus,species,Lepus arcticus,species,High arctic terrestrial field sites,walking,walking
+160400,predacious,Bubo scandiacus,species,Mustela erminea,species,High arctic terrestrial field sites,flying,walking

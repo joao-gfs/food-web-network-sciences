@@ -1,0 +1,149 @@
+autoID,interaction.type,con.taxonomy,con.taxonomy.level,res.taxonomy,res.taxonomy.level,geographic.location,con.movement.type,res.movement.type
+157019,predacious,Salmo trutta,species,Salmo trutta,species,"Lochnagar, NE Scotland, UK",swimming,swimming
+157022,predacious,Salmo trutta,species,Sigara	lateralis,species,"Lochnagar, NE Scotland, UK",swimming,swimming
+157030,predacious,Sigara lateralis,species,Oreodytes davisii,species,"Lochnagar, NE Scotland, UK",swimming,walking
+157039,predacious,Salmo trutta,species,Oreodytes davisii,species,"Lochnagar, NE Scotland, UK",swimming,walking
+157040,predacious,Salmo trutta,species,Halesus radiatus,species,"Lochnagar, NE Scotland, UK",swimming,walking
+157041,predacious,Salmo trutta,species,Sialis lutaria,species,"Lochnagar, NE Scotland, UK",swimming,walking
+157043,predacious,Salmo trutta,species,Plectrocnemia conspersa,species,"Lochnagar, NE Scotland, UK",swimming,walking
+157044,predacious,Salmo trutta,species,Nemoura cambrica,species,"Lochnagar, NE Scotland, UK",swimming,walking
+157045,predacious,Salmo trutta,species,Capnia vidua,species,"Lochnagar, NE Scotland, UK",swimming,walking
+157046,predacious,Salmo trutta,species,Leuctra nigra,species,"Lochnagar, NE Scotland, UK",swimming,walking
+157049,predacious,Sigara lateralis,species,Sialis lutaria,species,"Lochnagar, NE Scotland, UK",swimming,walking
+157052,herbivorous,Capnia vidua,species,Fragilaria vaucheriae,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157053,herbivorous,Capnia vidua,species,Fragilaria virescens,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157054,herbivorous,Capnia vidua,species,Frustulia rhomboides var saxonica,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157055,herbivorous,Capnia vidua,species,Frustulia rhomboides var viridula,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157060,herbivorous,Capnia vidua,species,Diatoma hyemale var mesodon,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157063,herbivorous,Capnia vidua,species,Brachysira brebissonii,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157064,herbivorous,Capnia vidua,species,Peronia fibula,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157065,herbivorous,Capnia vidua,species,Eunotia incisa,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157066,herbivorous,Capnia vidua,species,Eunotia curvata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157067,predacious,Capnia vidua,species,Tabellaria flocculosa,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157068,herbivorous,Capnia vidua,species,Aulacoseira distans var nivalis,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157069,herbivorous,Capnia vidua,species,Achnanthes austriaca var helvetica,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157070,herbivorous,Capnia vidua,species,Achnanthes marginulata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157071,herbivorous,Capnia vidua,species,Eunotia denticulata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157072,herbivorous,Capnia vidua,species,Eunotia rhomboidea,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157074,herbivorous,Capnia vidua,species,Eunotia vanheurckii var intermedia,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157075,herbivorous,Chaetopteryx	villosa,species,Fragilaria vaucheriae,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157076,herbivorous,Chaetopteryx	villosa,species,Fragilaria virescens,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157077,herbivorous,Chaetopteryx	villosa,species,Frustulia rhomboides var saxonica,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157078,herbivorous,Chaetopteryx	villosa,species,Frustulia rhomboides var viridula,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157083,herbivorous,Chaetopteryx	villosa,species,Diatoma hyemale var mesodon,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157086,herbivorous,Chaetopteryx	villosa,species,Brachysira brebissonii,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157087,herbivorous,Chaetopteryx	villosa,species,Peronia fibula,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157088,herbivorous,Chaetopteryx	villosa,species,Eunotia incisa,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157089,herbivorous,Chaetopteryx	villosa,species,Eunotia curvata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157090,predacious,Chaetopteryx	villosa,species,Tabellaria flocculosa,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157091,herbivorous,Chaetopteryx	villosa,species,Aulacoseira distans var nivalis,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157092,herbivorous,Chaetopteryx	villosa,species,Achnanthes austriaca var helvetica,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157093,herbivorous,Chaetopteryx	villosa,species,Achnanthes marginulata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157094,herbivorous,Chaetopteryx	villosa,species,Eunotia denticulata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157095,herbivorous,Chaetopteryx	villosa,species,Eunotia rhomboidea,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157097,herbivorous,Chaetopteryx	villosa,species,Eunotia vanheurckii var intermedia,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157121,herbivorous,Halesus radiatus,species,Fragilaria vaucheriae,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157122,herbivorous,Halesus radiatus,species,Fragilaria virescens,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157123,herbivorous,Halesus radiatus,species,Frustulia rhomboides var saxonica,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157124,herbivorous,Halesus radiatus,species,Frustulia rhomboides var viridula,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157129,herbivorous,Halesus radiatus,species,Diatoma hyemale var mesodon,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157132,herbivorous,Halesus radiatus,species,Brachysira brebissonii,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157133,herbivorous,Halesus radiatus,species,Peronia fibula,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157134,herbivorous,Halesus radiatus,species,Eunotia incisa,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157135,herbivorous,Halesus radiatus,species,Eunotia curvata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157136,predacious,Halesus radiatus,species,Tabellaria flocculosa,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157137,herbivorous,Halesus radiatus,species,Aulacoseira distans var nivalis,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157138,herbivorous,Halesus radiatus,species,Achnanthes austriaca var helvetica,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157139,herbivorous,Halesus radiatus,species,Achnanthes marginulata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157140,herbivorous,Halesus radiatus,species,Eunotia denticulata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157141,herbivorous,Halesus radiatus,species,Eunotia rhomboidea,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157143,herbivorous,Halesus radiatus,species,Eunotia vanheurckii var intermedia,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157144,herbivorous,Leuctra nigra,species,Fragilaria vaucheriae,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157145,herbivorous,Leuctra nigra,species,Fragilaria virescens,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157146,herbivorous,Leuctra nigra,species,Frustulia rhomboides var saxonica,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157147,herbivorous,Leuctra nigra,species,Frustulia rhomboides var viridula,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157152,herbivorous,Leuctra nigra,species,Diatoma hyemale var mesodon,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157155,herbivorous,Leuctra nigra,species,Brachysira brebissonii,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157156,herbivorous,Leuctra nigra,species,Peronia fibula,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157157,herbivorous,Leuctra nigra,species,Eunotia incisa,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157158,herbivorous,Leuctra nigra,species,Eunotia curvata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157159,predacious,Leuctra nigra,species,Tabellaria flocculosa,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157160,herbivorous,Leuctra nigra,species,Aulacoseira distans var nivalis,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157161,herbivorous,Leuctra nigra,species,Achnanthes austriaca var helvetica,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157162,herbivorous,Leuctra nigra,species,Achnanthes marginulata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157163,herbivorous,Leuctra nigra,species,Eunotia denticulata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157164,herbivorous,Leuctra nigra,species,Eunotia rhomboidea,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157166,herbivorous,Leuctra nigra,species,Eunotia vanheurckii var intermedia,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157167,herbivorous,Nemoura cambrica,species,Fragilaria vaucheriae,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157168,herbivorous,Nemoura cambrica,species,Fragilaria virescens,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157169,herbivorous,Nemoura cambrica,species,Frustulia rhomboides var saxonica,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157170,herbivorous,Nemoura cambrica,species,Frustulia rhomboides var viridula,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157175,herbivorous,Nemoura cambrica,species,Diatoma hyemale var mesodon,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157178,herbivorous,Nemoura cambrica,species,Brachysira brebissonii,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157179,herbivorous,Nemoura cambrica,species,Peronia fibula,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157180,herbivorous,Nemoura cambrica,species,Eunotia incisa,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157181,herbivorous,Nemoura cambrica,species,Eunotia curvata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157182,predacious,Nemoura cambrica,species,Tabellaria flocculosa,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157183,herbivorous,Nemoura cambrica,species,Aulacoseira distans var nivalis,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157184,herbivorous,Nemoura cambrica,species,Achnanthes austriaca var helvetica,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157185,herbivorous,Nemoura cambrica,species,Achnanthes marginulata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157186,herbivorous,Nemoura cambrica,species,Eunotia denticulata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157187,herbivorous,Nemoura cambrica,species,Eunotia rhomboidea,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157189,herbivorous,Nemoura cambrica,species,Eunotia vanheurckii var intermedia,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157213,herbivorous,Plectrocnemia conspersa,species,Fragilaria vaucheriae,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157214,herbivorous,Plectrocnemia conspersa,species,Fragilaria virescens,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157215,herbivorous,Plectrocnemia conspersa,species,Frustulia rhomboides var saxonica,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157216,herbivorous,Plectrocnemia conspersa,species,Frustulia rhomboides var viridula,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157221,herbivorous,Plectrocnemia conspersa,species,Diatoma hyemale var mesodon,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157224,herbivorous,Plectrocnemia conspersa,species,Brachysira brebissonii,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157225,herbivorous,Plectrocnemia conspersa,species,Peronia fibula,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157226,herbivorous,Plectrocnemia conspersa,species,Eunotia incisa,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157227,herbivorous,Plectrocnemia conspersa,species,Eunotia curvata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157228,predacious,Plectrocnemia conspersa,species,Tabellaria flocculosa,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157229,herbivorous,Plectrocnemia conspersa,species,Aulacoseira distans var nivalis,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157230,herbivorous,Plectrocnemia conspersa,species,Achnanthes austriaca var helvetica,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157231,herbivorous,Plectrocnemia conspersa,species,Achnanthes marginulata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157232,herbivorous,Plectrocnemia conspersa,species,Eunotia denticulata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157233,herbivorous,Plectrocnemia conspersa,species,Eunotia rhomboidea,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157235,herbivorous,Plectrocnemia conspersa,species,Eunotia vanheurckii var intermedia,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157259,herbivorous,Sialis lutaria,species,Fragilaria vaucheriae,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157260,herbivorous,Sialis lutaria,species,Fragilaria virescens,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157261,herbivorous,Sialis lutaria,species,Frustulia rhomboides var saxonica,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157262,herbivorous,Sialis lutaria,species,Frustulia rhomboides var viridula,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157267,herbivorous,Sialis lutaria,species,Diatoma hyemale var mesodon,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157270,herbivorous,Sialis lutaria,species,Brachysira brebissonii,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157271,herbivorous,Sialis lutaria,species,Peronia fibula,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157272,herbivorous,Sialis lutaria,species,Eunotia incisa,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157273,herbivorous,Sialis lutaria,species,Eunotia curvata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157274,predacious,Sialis lutaria,species,Tabellaria flocculosa,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157275,herbivorous,Sialis lutaria,species,Aulacoseira distans var nivalis,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157276,herbivorous,Sialis lutaria,species,Achnanthes austriaca var helvetica,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157277,herbivorous,Sialis lutaria,species,Achnanthes marginulata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157278,herbivorous,Sialis lutaria,species,Eunotia denticulata,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157279,herbivorous,Sialis lutaria,species,Eunotia rhomboidea,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157281,herbivorous,Sialis lutaria,species,Eunotia vanheurckii var intermedia,species,"Lochnagar, NE Scotland, UK",walking,sessile
+157283,predacious,Oreodytes davisii,species,Sigara lateralis,species,"Lochnagar, NE Scotland, UK",walking,swimming
+157284,predacious,Plectrocnemia conspersa,species,Sigara lateralis,species,"Lochnagar, NE Scotland, UK",walking,swimming
+157289,predacious,Sialis lutaria,species,Sigara lateralis,species,"Lochnagar, NE Scotland, UK",walking,swimming
+157296,predacious,Diura bicaudata,species,Nemoura cambrica,species,"Lochnagar, NE Scotland, UK",walking,walking
+157297,predacious,Diura bicaudata,species,Siphonoperla	torrentium,species,"Lochnagar, NE Scotland, UK",walking,walking
+157298,predacious,Diura bicaudata,species,Leuctra nigra,species,"Lochnagar, NE Scotland, UK",walking,walking
+157302,predacious,Oreodytes davisii,species,Sialis lutaria,species,"Lochnagar, NE Scotland, UK",walking,walking
+157303,predacious,Oreodytes davisii,species,Nemoura cambrica,species,"Lochnagar, NE Scotland, UK",walking,walking
+157304,predacious,Plectrocnemia conspersa,species,Oreodytes davisii,species,"Lochnagar, NE Scotland, UK",walking,walking
+157305,predacious,Plectrocnemia conspersa,species,Halesus radiatus,species,"Lochnagar, NE Scotland, UK",walking,walking
+157306,predacious,Plectrocnemia conspersa,species,Sialis lutaria,species,"Lochnagar, NE Scotland, UK",walking,walking
+157308,predacious,Plectrocnemia conspersa,species,Plectrocnemia conspersa,species,"Lochnagar, NE Scotland, UK",walking,walking
+157309,predacious,Plectrocnemia conspersa,species,Nemoura cambrica,species,"Lochnagar, NE Scotland, UK",walking,walking
+157310,predacious,Plectrocnemia conspersa,species,Capnia vidua,species,"Lochnagar, NE Scotland, UK",walking,walking
+157311,predacious,Plectrocnemia conspersa,species,Siphonoperla torrentium,species,"Lochnagar, NE Scotland, UK",walking,walking
+157312,predacious,Plectrocnemia conspersa,species,Leuctra nigra,species,"Lochnagar, NE Scotland, UK",walking,walking
+157324,predacious,Sialis lutaria,species,Oreodytes davisii,species,"Lochnagar, NE Scotland, UK",walking,walking
+157325,predacious,Sialis lutaria,species,Sialis lutaria,species,"Lochnagar, NE Scotland, UK",walking,walking
+157327,predacious,Sialis lutaria,species,Plectrocnemia conspersa,species,"Lochnagar, NE Scotland, UK",walking,walking
+157328,predacious,Sialis lutaria,species,Nemoura cambrica,species,"Lochnagar, NE Scotland, UK",walking,walking
+157329,predacious,Sialis lutaria,species,Siphonoperla	torrentium,species,"Lochnagar, NE Scotland, UK",walking,walking
+157330,predacious,Sialis lutaria,species,Leuctra nigra,species,"Lochnagar, NE Scotland, UK",walking,walking
+157333,predacious,Siphonoperla	torrentium,species,Nemoura cambrica,species,"Lochnagar, NE Scotland, UK",walking,walking
+157334,predacious,Siphonoperla	torrentium,species,Siphonoperla	torrentium,species,"Lochnagar, NE Scotland, UK",walking,walking
+157335,predacious,Siphonoperla	torrentium,species,Leuctra nigra,species,"Lochnagar, NE Scotland, UK",walking,walking

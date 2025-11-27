@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_movement_type" for="node" attr.name="movement_type" attr.type="string"/>
+  <key id="v_id" for="node" attr.name="id" attr.type="string"/>
+  <key id="e_interaction_type" for="edge" attr.name="interaction_type" attr.type="string"/>
+  <graph id="G" edgedefault="directed">
+    <node id="n0">
+      <data key="v_name">Carabus granulatus</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n0</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">Abax parallelepipedus</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n1</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">Carabus nemoralis</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n2</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">Deroceras reticulatum</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n3</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">Porcellio scaber</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n4</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">Bembidion lampros </data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n5</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">Bembidion lampros</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n6</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">Anemone nemorosa</data>
+      <data key="v_movement_type">sessile</data>
+      <data key="v_id">n7</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">Osmunda regalis</data>
+      <data key="v_movement_type">sessile</data>
+      <data key="v_id">n8</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">Ranunculus ficaria</data>
+      <data key="v_movement_type">sessile</data>
+      <data key="v_id">n9</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">Ranunculus repens</data>
+      <data key="v_movement_type">sessile</data>
+      <data key="v_id">n10</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">Urtica dioica</data>
+      <data key="v_movement_type">sessile</data>
+      <data key="v_id">n11</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">Veronica montana</data>
+      <data key="v_movement_type">sessile</data>
+      <data key="v_id">n12</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">Fraxinus excelsior</data>
+      <data key="v_movement_type">sessile</data>
+      <data key="v_id">n13</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">Glomeris marginata</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n14</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">Loricera pilicornis</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n15</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">Nebria brevicollis</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n16</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">Platynus assimile</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n17</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">Platynus dorsale</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n18</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">Alnus glutinosa</data>
+      <data key="v_movement_type">sessile</data>
+      <data key="v_id">n19</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">Quercus robur</data>
+      <data key="v_movement_type">sessile</data>
+      <data key="v_id">n20</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">Arion distinctus</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n21</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">Pterostichus melanarius</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n22</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">Arion subfuscus</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n23</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">Pterostichus nigrita</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n24</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">Pterostichus strenuus</data>
+      <data key="v_movement_type">walking</data>
+      <data key="v_id">n25</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n2" target="n1">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n3" target="n1">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n4" target="n1">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n5" target="n6">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n3" target="n0">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n4" target="n0">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n4" target="n2">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n7" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n8" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n9" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n10" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n11" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n12" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n13" target="n14">
+      <data key="e_interaction_type">detritivorous</data>
+    </edge>
+    <edge source="n3" target="n15">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n3" target="n16">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n4" target="n17">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n3" target="n18">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n19" target="n4">
+      <data key="e_interaction_type">detritivorous</data>
+    </edge>
+    <edge source="n4" target="n4">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n20" target="n4">
+      <data key="e_interaction_type">detritivorous</data>
+    </edge>
+    <edge source="n21" target="n22">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n23" target="n22">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n6" target="n22">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n3" target="n22">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n4" target="n22">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n3" target="n24">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n3" target="n25">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+  </graph>
+</graphml>

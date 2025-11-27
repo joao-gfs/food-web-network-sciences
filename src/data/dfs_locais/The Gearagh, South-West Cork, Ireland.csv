@@ -1,0 +1,30 @@
+autoID,interaction.type,con.taxonomy,con.taxonomy.level,res.taxonomy,res.taxonomy.level,geographic.location,con.movement.type,res.movement.type
+160403,predacious,Abax parallelepipedus,species,Carabus granulatus,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160404,predacious,Abax parallelepipedus,species,Carabus nemoralis,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160405,predacious,Abax parallelepipedus,species,Deroceras reticulatum,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160415,predacious,Abax parallelepipedus,species,Porcellio scaber,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160432,predacious,Bembidion lampros,species,Bembidion lampros ,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160441,predacious,Carabus granulatus,species,Deroceras reticulatum,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160447,predacious,Carabus granulatus,species,Porcellio scaber,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160450,predacious,Carabus nemoralis,species,Porcellio scaber,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160451,herbivorous,Deroceras reticulatum,species,Anemone nemorosa,species,"The Gearagh, South-West Cork, Ireland",walking,sessile
+160457,herbivorous,Deroceras reticulatum,species,Osmunda regalis,species,"The Gearagh, South-West Cork, Ireland",walking,sessile
+160458,herbivorous,Deroceras reticulatum,species,Ranunculus ficaria,species,"The Gearagh, South-West Cork, Ireland",walking,sessile
+160459,herbivorous,Deroceras reticulatum,species,Ranunculus repens,species,"The Gearagh, South-West Cork, Ireland",walking,sessile
+160460,herbivorous,Deroceras reticulatum,species,Urtica dioica,species,"The Gearagh, South-West Cork, Ireland",walking,sessile
+160462,herbivorous,Deroceras reticulatum,species,Veronica montana,species,"The Gearagh, South-West Cork, Ireland",walking,sessile
+160560,detritivorous,Glomeris marginata,species,Fraxinus excelsior,species,"The Gearagh, South-West Cork, Ireland",walking,sessile
+160581,predacious,Loricera pilicornis,species,Deroceras reticulatum,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160590,predacious,Nebria brevicollis,species,Deroceras reticulatum,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160736,predacious,Platynus assimile,species,Porcellio scaber,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160737,predacious,Platynus dorsale,species,Deroceras reticulatum,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160751,detritivorous,Porcellio scaber,species,Alnus glutinosa,species,"The Gearagh, South-West Cork, Ireland",walking,sessile
+160753,predacious,Porcellio scaber,species,Porcellio scaber,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160754,detritivorous,Porcellio scaber,species,Quercus robur,species,"The Gearagh, South-West Cork, Ireland",walking,sessile
+160762,predacious,Pterostichus melanarius,species,Arion distinctus,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160763,predacious,Pterostichus melanarius,species,Arion subfuscus,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160764,predacious,Pterostichus melanarius,species,Bembidion lampros,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160765,predacious,Pterostichus melanarius,species,Deroceras reticulatum,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160777,predacious,Pterostichus melanarius,species,Porcellio scaber,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160778,predacious,Pterostichus nigrita,species,Deroceras reticulatum,species,"The Gearagh, South-West Cork, Ireland",walking,walking
+160781,predacious,Pterostichus strenuus,species,Deroceras reticulatum,species,"The Gearagh, South-West Cork, Ireland",walking,walking

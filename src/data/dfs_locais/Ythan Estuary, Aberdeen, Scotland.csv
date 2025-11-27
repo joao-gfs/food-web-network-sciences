@@ -1,0 +1,325 @@
+autoID,interaction.type,con.taxonomy,con.taxonomy.level,res.taxonomy,res.taxonomy.level,geographic.location,con.movement.type,res.movement.type
+11498,predacious,Lutra lutra,species,Anguilla anguilla,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11499,predacious,Lutra lutra,species,Pholis gunnellus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11500,predacious,Lutra lutra,species,Zoarces viviparus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11501,predacious,Lutra lutra,species,Myoxocephalus scorpius,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11502,predacious,Lutra lutra,species,Salmo trutta,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11503,predacious,Phalacrocorax carbo,species,Anguilla anguilla,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11504,predacious,Phalacrocorax carbo,species,Pollachius virens,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11505,predacious,Phalacrocorax carbo,species,Ammodytes tobianus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11506,predacious,Phalacrocorax carbo,species,Zoarces viviparus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11507,predacious,Phalacrocorax carbo,species,Pomatoschistus microps,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11508,predacious,Phalacrocorax carbo,species,Platichthys flesus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11509,predacious,Phalacrocorax carbo,species,Salmo trutta,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11510,predacious,Ardea cinerea,species,Anguilla anguilla,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11511,predacious,Ardea cinerea,species,Pollachius virens,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11512,predacious,Ardea cinerea,species,Ammodytes tobianus,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11513,predacious,Ardea cinerea,species,Pholis gunnellus,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11514,predacious,Ardea cinerea,species,Zoarces viviparus,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11515,predacious,Ardea cinerea,species,Pomatoschistus microps,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11516,predacious,Ardea cinerea,species,Myoxocephalus scorpius,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11517,predacious,Ardea cinerea,species,Platichthys flesus,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11518,predacious,Ardea cinerea,species,Salmo trutta,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11519,predacious,Ardea cinerea,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11520,herbivorous,Cygnus olor,species,Enteromorpha,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11521,predacious,Tadorna tadorna,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11522,predacious,Tadorna tadorna,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11524,predacious,Tadorna tadorna,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11525,predacious,Tadorna tadorna,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11526,predacious,Tadorna tadorna,species,Littorina littorea,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11527,predacious,Tadorna tadorna,species,Macoma balthica,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11528,predacious,Tadorna tadorna,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11529,predacious,Tadorna tadorna,species,Cerastoderma edule,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11531,herbivorous,Tadorna tadorna,species,Enteromorpha,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11532,herbivorous,Anas penelope,species,Enteromorpha,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11533,predacious,Somateria mollissima,species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11534,predacious,Somateria mollissima,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11535,predacious,Somateria mollissima,species,Littorina littorea,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11536,predacious,Somateria mollissima,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11537,predacious,Somateria mollissima (juvenile),species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11538,predacious,Somateria mollissima (juvenile),species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11539,predacious,Somateria mollissima (juvenile),species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11540,predacious,Somateria mollissima (juvenile),species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11541,predacious,Somateria mollissima (juvenile),species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11542,predacious,Somateria mollissima (juvenile),species,Littorina littorea,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11543,predacious,Somateria mollissima (juvenile),species,Macoma balthica,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11544,predacious,Somateria mollissima (juvenile),species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11545,predacious,Haematopus ostralegus,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11546,predacious,Haematopus ostralegus,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11547,predacious,Haematopus ostralegus,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11548,predacious,Haematopus ostralegus,species,Littorina littorea,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11549,predacious,Haematopus ostralegus,species,Macoma balthica,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11550,predacious,Haematopus ostralegus,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11551,predacious,Charadrius hiaticula,species,Neomysis integer,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11552,predacious,Charadrius hiaticula,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11553,predacious,Charadrius hiaticula,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11554,predacious,Charadrius hiaticula,species,Littorina littorea,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11555,predacious,Pluvialis apricaria,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11556,predacious,Pluvialis apricaria,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11557,predacious,Pluvialis apricaria,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11558,predacious,Pluvialis apricaria,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11559,predacious,Pluvialis apricaria,species,Littorina littorea,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11560,predacious,Pluvialis squatarola,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11561,predacious,Pluvialis squatarola,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11562,predacious,Vanellus vanellus,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11563,predacious,Vanellus vanellus,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11564,predacious,Vanellus vanellus,species,Macoma balthica,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11565,predacious,Calidris alpina,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11566,predacious,Calidris alpina,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11567,predacious,Limosa lapponica,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11568,predacious,Numenius arquata,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11569,predacious,Numenius arquata,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11570,predacious,Numenius arquata,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11571,predacious,Numenius arquata,species,Littorina littorea,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11572,predacious,Tringa totanus,species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11573,predacious,Tringa totanus,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11574,predacious,Tringa totanus,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11576,predacious,Tringa totanus,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11577,predacious,Tringa totanus,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11578,predacious,Tringa totanus,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11579,predacious,Tringa totanus,species,Arenicola marina,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11580,predacious,Tringa totanus,species,Littorina saxatilis,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11581,predacious,Tringa totanus,species,Macoma balthica,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11582,predacious,Tringa totanus,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11584,predacious,Arenaria interpres,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11585,predacious,Arenaria interpres,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11586,predacious,Arenaria interpres,species,Littorina littorea,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11587,predacious,Larus canus,species,Sprattus sprattus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11588,predacious,Larus canus,species,Clupea harengus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11589,predacious,Larus canus,species,Platichthys flesus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11590,predacious,Larus canus,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11591,predacious,Larus canus,species,Neomysis integer,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11592,predacious,Larus canus,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11593,predacious,Larus canus,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11594,predacious,Larus canus,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11595,predacious,Larus canus,species,Littorina littorea,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11596,predacious,Larus ridibundus,species,Sprattus sprattus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11597,predacious,Larus ridibundus,species,Clupea harengus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11598,predacious,Larus ridibundus,species,Platichthys flesus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11599,predacious,Larus ridibundus,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11600,predacious,Larus ridibundus,species,Neomysis integer,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11601,predacious,Larus ridibundus,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11602,predacious,Larus ridibundus,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11603,predacious,Larus ridibundus,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11604,predacious,Larus argentatus,species,Somateria mollissima (juvenile),species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11605,predacious,Larus argentatus,species,Sprattus sprattus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11606,predacious,Larus argentatus,species,Clupea harengus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11607,predacious,Larus argentatus,species,Pholis gunnellus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11608,predacious,Larus argentatus,species,Platichthys flesus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11609,predacious,Larus argentatus,species,Salmo trutta,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11610,predacious,Larus argentatus,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11611,predacious,Larus argentatus,species,Littorina littorea,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11612,predacious,Larus argentatus,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11613,predacious,Larus argentatus,species,Cerastoderma edule,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11614,predacious,Larus marinus,species,Sprattus sprattus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11615,predacious,Larus marinus,species,Clupea harengus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11616,predacious,Larus marinus,species,Platichthys flesus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11617,predacious,Larus marinus,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11618,predacious,Larus marinus,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11619,predacious,Larus marinus,species,Cerastoderma edule,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11620,predacious,Sterna Sandvicensis,species,Sprattus sprattus,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11621,predacious,Sterna Sandvicensis,species,Clupea harengus,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11622,predacious,Sterna Sandvicensis,species,Ammodytes tobianus,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11623,predacious,Sterna Sandvicensis,species,Zoarces viviparus,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11624,predacious,Sterna Sandvicensis,species,Platichthys flesus (juvenile),species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11625,predacious,Sterna hirundo,species,Sprattus sprattus,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11626,predacious,Sterna hirundo,species,Clupea harengus,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11627,predacious,Sterna hirundo,species,Anguilla anguilla,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11628,predacious,Sterna hirundo,species,Ammodytes tobianus,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11629,predacious,Sterna hirundo,species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11630,predacious,Sterna paradisaea,species,Sprattus sprattus,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11631,predacious,Sterna paradisaea,species,Clupea harengus,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11632,predacious,Sterna paradisaea,species,Ammodytes tobianus,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11633,predacious,Corvus frugilegus,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11634,predacious,Corvus frugilegus,species,Littorina littorea,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11635,predacious,Corvus frugilegus,species,Littorina saxatilis,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11636,predacious,Corvus frugilegus,species,Macoma balthica,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11637,predacious,Corvus corone,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11638,predacious,Corvus corone,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11639,predacious,Corvus corone,species,Littorina saxatilis,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11640,predacious,Corvus corone,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11643,predacious,Anguilla anguilla,species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11644,predacious,Anguilla anguilla,species,Neomysis integer,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11645,predacious,Anguilla anguilla,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11646,predacious,Anguilla anguilla,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11647,predacious,Anguilla anguilla,species,Jaera marina,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11648,predacious,Anguilla anguilla,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11651,predacious,Syngnathus rostellatus,species,Semibalanus balanoides,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11652,predacious,Pollachius virens,species,Pomatoschistus microps,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11653,predacious,Pollachius virens,species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11654,predacious,Pollachius virens,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11656,predacious,Pollachius virens,species,Semibalanus balanoides,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11657,predacious,Pollachius virens,species,Neomysis integer,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11658,predacious,Pollachius virens,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11659,predacious,Pollachius virens,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11660,predacious,Pollachius virens,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11661,predacious,Ciliata mustela,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11662,predacious,Ciliata mustela,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11663,predacious,Ammodytes tobianus,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11666,predacious,Ammodytes tobianus,species,Semibalanus balanoides,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11667,predacious,Ammodytes tobianus,species,Neomysis integer,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11668,predacious,Ammodytes tobianus,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11669,predacious,Ammodytes tobianus,species,Jaera marina,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11670,predacious,Ammodytes tobianus,species,Pygospio elegans,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11671,predacious,Ammodytes tobianus,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11672,predacious,Pholis gunnellus,species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11673,predacious,Pholis gunnellus,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11676,predacious,Pholis gunnellus,species,Semibalanus balanoides,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11677,predacious,Pholis gunnellus,species,Neomysis integer,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11678,predacious,Pholis gunnellus,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11679,predacious,Pholis gunnellus,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11680,predacious,Pholis gunnellus,species,Jaera marina,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11682,predacious,Pholis gunnellus,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11683,predacious,Pholis gunnellus,species,Littorina saxatilis,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11684,predacious,Pholis gunnellus,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11686,herbivorous,Pholis gunnellus,species,Enteromorpha,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11687,predacious,Zoarces viviparus,species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11688,predacious,Zoarces viviparus,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11691,predacious,Zoarces viviparus,species,Semibalanus balanoides,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11692,predacious,Zoarces viviparus,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11693,predacious,Zoarces viviparus,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11694,predacious,Zoarces viviparus,species,Jaera marina,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11695,predacious,Zoarces viviparus,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11696,predacious,Zoarces viviparus,species,Pygospio elegans,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11698,predacious,Zoarces viviparus,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11700,predacious,Pomatoschistus minutus,species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11701,predacious,Pomatoschistus minutus,species,Hyale nilssoni,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11702,predacious,Pomatoschistus minutus,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11703,predacious,Pomatoschistus minutus,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11705,predacious,Pomatoschistus minutus,species,Neomysis integer,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11706,predacious,Pomatoschistus minutus,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11707,predacious,Pomatoschistus minutus,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11708,predacious,Pomatoschistus minutus,species,Jaera marina,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11709,predacious,Pomatoschistus minutus,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11710,predacious,Pomatoschistus minutus,species,Pygospio elegans,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11711,predacious,Pomatoschistus minutus,species,Tubificoides benedeni,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11712,predacious,Pomatoschistus minutus,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11715,predacious,Pomatoschistus microps,species,Pomatoschistus minutus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11716,predacious,Pomatoschistus microps,species,Pomatoschistus microps,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11717,predacious,Pomatoschistus microps,species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11718,predacious,Pomatoschistus microps,species,Hyale nilssoni,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11719,predacious,Pomatoschistus microps,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11720,predacious,Pomatoschistus microps,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11722,predacious,Pomatoschistus microps,species,Semibalanus balanoides,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11723,predacious,Pomatoschistus microps,species,Neomysis integer,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11724,predacious,Pomatoschistus microps,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11725,predacious,Pomatoschistus microps,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11726,predacious,Pomatoschistus microps,species,Jaera marina,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11728,predacious,Pomatoschistus microps,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11729,predacious,Pomatoschistus microps,species,Pygospio elegans,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11730,predacious,Pomatoschistus microps,species,Manayunkia aestuarina,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11731,predacious,Pomatoschistus microps,species,Arenicola marina,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11732,predacious,Pomatoschistus microps,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11736,predacious,Myoxocephalus scorpius,species,Pomatoschistus microps,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11737,predacious,Myoxocephalus scorpius,species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11738,predacious,Myoxocephalus scorpius,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11740,predacious,Myoxocephalus scorpius,species,Semibalanus balanoides,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11741,predacious,Myoxocephalus scorpius,species,Neomysis integer,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11742,predacious,Myoxocephalus scorpius,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11743,predacious,Myoxocephalus scorpius,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11744,predacious,Agonus cataphractus,species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11745,predacious,Agonus cataphractus,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11746,predacious,Gasterosteus aculeatus,species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11748,predacious,Gasterosteus aculeatus,species,Semibalanus balanoides,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11749,predacious,Gasterosteus aculeatus,species,Neomysis integer,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11750,predacious,Gasterosteus aculeatus,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11751,predacious,Gasterosteus aculeatus,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11752,predacious,Gasterosteus aculeatus,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11753,predacious,Pleuronectes platessa,species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11754,predacious,Pleuronectes platessa,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11756,predacious,Pleuronectes platessa,species,Semibalanus balanoides,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11757,predacious,Pleuronectes platessa,species,Neomysis integer,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11758,predacious,Pleuronectes platessa,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11759,predacious,Pleuronectes platessa,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11760,predacious,Pleuronectes platessa,species,Jaera marina,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11761,predacious,Pleuronectes platessa,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11762,predacious,Pleuronectes platessa,species,Pygospio elegans,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11764,predacious,Pleuronectes platessa,species,Manayunkia aestuarina,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11765,predacious,Pleuronectes platessa,species,Tubificoides benedeni,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11766,predacious,Pleuronectes platessa,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11767,predacious,Pleuronectes platessa,species,Cerastoderma edule,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11769,predacious,Platichthys flesus,species,Sprattus sprattus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11770,predacious,Platichthys flesus,species,Clupea harengus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11771,predacious,Platichthys flesus,species,Ammodytes tobianus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11772,predacious,Platichthys flesus,species,Pomatoschistus microps,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11773,predacious,Platichthys flesus,species,Myoxocephalus scorpius,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11774,predacious,Platichthys flesus,species,Pleuronectes platessa,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11775,predacious,Platichthys flesus,species,Platichthys flesus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11776,predacious,Platichthys flesus,species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11777,predacious,Platichthys flesus,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11778,predacious,Platichthys flesus,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11780,predacious,Platichthys flesus,species,Semibalanus balanoides,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11781,predacious,Platichthys flesus,species,Neomysis integer,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11782,predacious,Platichthys flesus,species,Mya arenaria,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11783,predacious,Platichthys flesus,species,Talitrus saltator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11784,predacious,Platichthys flesus,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11785,predacious,Platichthys flesus,species,Bathyporeia pilosa,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11786,predacious,Platichthys flesus,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11787,predacious,Platichthys flesus,species,Idotea emarginata,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11788,predacious,Platichthys flesus,species,Eurydice pulchra,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11789,predacious,Platichthys flesus,species,Nereis virens,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11790,predacious,Platichthys flesus,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11795,predacious,Platichthys flesus,species,Pygospio elegans,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11797,predacious,Platichthys flesus,species,Manayunkia aestuarina,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11799,predacious,Platichthys flesus,species,Arenicola marina,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11800,predacious,Platichthys flesus,species,Tubificoides benedeni,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11801,predacious,Platichthys flesus,species,Tubifex costatus,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11802,predacious,Platichthys flesus,species,Littorina littorea,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11803,predacious,Platichthys flesus,species,Alderia modesta,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11804,predacious,Platichthys flesus,species,Retusa obtusa,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11805,predacious,Platichthys flesus,species,Macoma balthica,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11806,predacious,Platichthys flesus,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11807,predacious,Platichthys flesus,species,Cerastoderma edule,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11810,herbivorous,Platichthys flesus,species,Enteromorpha,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11811,predacious,Platichthys flesus (juvenile),species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11812,predacious,Platichthys flesus (juvenile),species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11814,predacious,Platichthys flesus (juvenile),species,Semibalanus balanoides,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11815,predacious,Platichthys flesus (juvenile),species,Neomysis integer,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11816,predacious,Platichthys flesus (juvenile),species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11817,predacious,Platichthys flesus (juvenile),species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11818,predacious,Platichthys flesus (juvenile),species,Jaera marina,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11819,predacious,Platichthys flesus (juvenile),species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11820,predacious,Platichthys flesus (juvenile),species,Pygospio elegans,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11821,predacious,Platichthys flesus (juvenile),species,Manayunkia aestuarina,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11822,predacious,Platichthys flesus (juvenile),species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11824,predacious,Salmo trutta,species,Crangon crangon,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11827,predacious,Salmo trutta,species,Semibalanus balanoides,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11828,predacious,Salmo trutta,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11829,predacious,Salmo trutta,species,Gammarus spp.,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11830,predacious,Salmo trutta,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11831,predacious,Crangon crangon,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11832,predacious,Crangon crangon,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11835,predacious,Crangon crangon,species,Semibalanus balanoides,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11836,predacious,Crangon crangon,species,Neomysis integer,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11837,predacious,Crangon crangon,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11840,predacious,Crangon crangon,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",swimming,swimming
+11841,predacious,Crangon crangon,species,Pygospio elegans,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11842,predacious,Crangon crangon,species,Tubificoides benedeni,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11843,predacious,Crangon crangon,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11845,herbivorous,Hyale nilssoni,species,Enteromorpha,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11846,predacious,Carcinus maenas,species,Carcinus maenas,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11847,predacious,Carcinus maenas,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11848,predacious,Carcinus maenas,species,Semibalanus balanoides,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11849,predacious,Carcinus maenas,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11850,predacious,Carcinus maenas,species,Jaera marina,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11852,predacious,Carcinus maenas,species,Nereis virens,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11853,predacious,Carcinus maenas,species,Nereis diversicolor,species,"Ythan Estuary, Aberdeen, Scotland",walking,swimming
+11854,herbivorous,Carcinus maenas,species,Fucus ceranoides,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11855,predacious,Carcinus maenas,species,Littorina saxatilis,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking
+11856,predacious,Carcinus maenas,species,Macoma balthica,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11857,predacious,Carcinus maenas,species,Mytilus edulis,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11858,predacious,Carcinus maenas,species,Cerastoderma edule,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11859,herbivorous,Carcinus maenas,species,Enteromorpha,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11860,herbivorous,Hydrobia ulvae,species,Enteromorpha,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11877,predacious,Nereis virens,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11878,predacious,Nereis virens,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11880,herbivorous,Nereis virens,species,Fucus ceranoides,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11881,herbivorous,Nereis virens,species,Enteromorpha,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11883,predacious,Nereis diversicolor,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11884,predacious,Nereis diversicolor,species,Corophium volutator,species,"Ythan Estuary, Aberdeen, Scotland",swimming,walking
+11886,herbivorous,Nereis diversicolor,species,Fucus ceranoides,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11887,herbivorous,Nereis diversicolor,species,Enteromorpha,species,"Ythan Estuary, Aberdeen, Scotland",swimming,sessile
+11901,herbivorous,Littorina littorea,species,Enteromorpha,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11904,herbivorous,Littorina saxatilis,species,Enteromorpha,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11906,herbivorous,Alderia modesta,species,Enteromorpha,species,"Ythan Estuary, Aberdeen, Scotland",walking,sessile
+11907,predacious,Retusa obtusa,species,Hydrobia ulvae,species,"Ythan Estuary, Aberdeen, Scotland",walking,walking

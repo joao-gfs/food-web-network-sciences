@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Eastern Weddell Sea Shelf, Antarctica.graphml
+Resultados serão salvos em: resultados_analise_batch/Eastern Weddell Sea Shelf, Antarctica
+Log de execução salvo em: resultados_analise_batch/Eastern Weddell Sea Shelf, Antarctica/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 478
+Número total de interações (arestas): 15618
+Número de espécies basais (produtores primários): 197
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Eastern Weddell Sea Shelf, Antarctica/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+                  Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+        Amphidinium Hadai                 1                      0             2          33          35          0.0     0.4770    0.0006
+             Bodo Saltans                 1                      0             2          30          32          0.0     0.4770    0.0006
+     Gyrodinium Lachryama                 1                      0             2          33          35          0.0     0.4770    0.0006
+Actinocyclus Actinochilus                 1                      0             0          81          81          0.0     0.5248    0.0005
+  Parvicorbucula Socialis                 1                      0            59          30          89          0.0     0.5096    0.0009
+    Actinocyclus Spiritus                 1                      0             0          81          81          0.0     0.5248    0.0005
+ Actinocyclus Utricularis                 1                      0             0          81          81          0.0     0.5248    0.0005
+       Azpeitia Tabularis                 1                      0             0          81          81          0.0     0.5248    0.0005
+       Banquisia Belgicae                 1                      0             0          81          81          0.0     0.5248    0.0005
+     Chaetoceros Bulbosum                 1                      0             0          81          81          0.0     0.5248    0.0005
+
+Ranking completo salvo em: resultados_analise_batch/Eastern Weddell Sea Shelf, Antarctica/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Amphidinium Hadai
+Snapshots da cascata salvos em: resultados_analise_batch/Eastern Weddell Sea Shelf, Antarctica/3_cascata_detalhada
+Total de passos gerados: 3
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Eastern Weddell Sea Shelf, Antarctica/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Amphidinium Hadai
+Histograma de perda de dieta salvo em: resultados_analise_batch/Eastern Weddell Sea Shelf, Antarctica/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 32
+Espécies com perda crítica (>= 50%): 2

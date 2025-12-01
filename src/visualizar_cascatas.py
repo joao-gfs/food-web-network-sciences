@@ -15,7 +15,7 @@ os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Carrega o grafo
 print("Carregando grafo...")
-grafo_file = 'Florida Key islands, Florida Bay, USA.graphml'
+grafo_file = 'Brasil (SP).graphml'
 g = ig.Graph.Read_GraphML(f'data/grafos_limpos/{grafo_file}')
 nome_rede = grafo_file.replace('.graphml', '')
 

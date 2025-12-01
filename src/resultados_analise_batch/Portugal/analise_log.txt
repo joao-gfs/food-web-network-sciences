@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Portugal.graphml
+Resultados serão salvos em: resultados_analise_batch/Portugal
+Log de execução salvo em: resultados_analise_batch/Portugal/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 87
+Número total de interações (arestas): 920
+Número de espécies basais (produtores primários): 39
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Portugal/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+                  Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+             Ulva Lactuca                 1                      0             0          40          40         0.00     0.6232    0.0022
+         Asterina Gibbosa                 1                      0            18           0          18         0.00     0.5059    0.0061
+    Paracentrotus Lividus                 1                      0            23           3          26        12.24     0.5409    0.0039
+              Liza Ramada                 1                      0            10           2          12         0.33     0.4914    0.0037
+   Diplodus Sargus Sargus                 1                      0            19           3          22        65.14     0.5342    0.0058
+         Lipophrys Pholis                 1                      0            41           9          50        66.42     0.6466    0.0358
+ Coryphoblennius Galerita                 1                      0            35           9          44       263.05     0.6187    0.1319
+        Gobius Paganellus                 1                      0            42           9          51       147.37     0.6515    0.0385
+Lepadogaster Lepadogaster                 1                      0            19           0          19         0.00     0.5059    0.0233
+           Actinia Equina                 1                      0            32           1          33         2.62     0.5772    0.0079
+
+Ranking completo salvo em: resultados_analise_batch/Portugal/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Ulva Lactuca
+Snapshots da cascata salvos em: resultados_analise_batch/Portugal/3_cascata_detalhada
+Total de passos gerados: 3
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Portugal/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Ulva Lactuca
+Histograma de perda de dieta salvo em: resultados_analise_batch/Portugal/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 40
+Espécies com perda crítica (>= 50%): 0

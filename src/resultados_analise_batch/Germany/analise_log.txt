@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Germany.graphml
+Resultados serão salvos em: resultados_analise_batch/Germany
+Log de execução salvo em: resultados_analise_batch/Germany/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 530
+Número total de interações (arestas): 11285
+Número de espécies basais (produtores primários): 285
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Germany/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+               Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+   Cochlodina Laminata                 2                      1             0           5           5         0.00     0.3160    0.0003
+Achipteria Coleoptrata                 1                      0             0          21          21         0.00     0.4805    0.0003
+     Geophilus Ribauti                 1                      0           214          64         278      4125.05     0.6343    0.0115
+ Lithobius Aeruginosus                 1                      0           239          81         320      9697.90     0.6580    0.0101
+      Adoristes Ovatus                 1                      0             0           7           7         0.00     0.4620    0.0003
+  Schendyla Nemorensis                 1                      0           205          54         259      4350.89     0.6209    0.0158
+         Allacma Fusca                 1                      0             0          41          41         0.00     0.4981    0.0003
+          Atheta Fungi                 1                      0            64          60         124       496.48     0.5533    0.0014
+Lysigamasus Lapponicus                 1                      0            85          65         150       713.15     0.5610    0.0015
+  Uroseius Cylindricus                 1                      0            92          70         162      1275.30     0.5610    0.0018
+
+Ranking completo salvo em: resultados_analise_batch/Germany/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Cochlodina Laminata
+Snapshots da cascata salvos em: resultados_analise_batch/Germany/3_cascata_detalhada
+Total de passos gerados: 4
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Germany/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Cochlodina Laminata
+Histograma de perda de dieta salvo em: resultados_analise_batch/Germany/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 10
+Espécies com perda crítica (>= 50%): 0

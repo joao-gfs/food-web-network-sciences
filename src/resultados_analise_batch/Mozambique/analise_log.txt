@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Mozambique.graphml
+Resultados serão salvos em: resultados_analise_batch/Mozambique
+Log de execução salvo em: resultados_analise_batch/Mozambique/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 78
+Número total de interações (arestas): 403
+Número de espécies basais (produtores primários): 53
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Mozambique/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+                     Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+         Chthamalus Dentatus                 4                      3             0           5           5         0.00     0.2525    0.0031
+                 Perna Perna                 2                      1             0           5           5         0.00     0.4096    0.0031
+Caulerpa Racemosa V. Uvifera                 1                      0             0          12          12         0.00     0.4753    0.0031
+          Bathygobius Fuscus                 1                      0            18           1          19         0.00     0.3850    0.0584
+          Parvulastra Exigua                 1                      0            36           0          36         0.00     0.4753    0.0152
+     Antennablennius Bifilum                 1                      0            41           2          43        27.32     0.5746    0.0209
+       Clibanarius Virescens                 1                      0            37           2          39        17.32     0.5423    0.0156
+        Metopograpsus Messor                 1                      0            29           2          31        17.08     0.5033    0.0123
+            Caulerpa Zeyheri                 1                      0             0           7           7         0.00     0.3929    0.0031
+                  Morula Uva                 1                      0             1           0           1         0.00     0.2021    0.0036
+
+Ranking completo salvo em: resultados_analise_batch/Mozambique/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Chthamalus Dentatus
+Snapshots da cascata salvos em: resultados_analise_batch/Mozambique/3_cascata_detalhada
+Total de passos gerados: 4
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Mozambique/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Chthamalus Dentatus
+Histograma de perda de dieta salvo em: resultados_analise_batch/Mozambique/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 3
+Espécies com perda crítica (>= 50%): 0

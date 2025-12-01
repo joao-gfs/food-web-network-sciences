@@ -1,0 +1,13 @@
+Espécie,Extinções Totais,Extinções Secundárias,Grau Entrada,Grau Saída,Grau Total,Betweenness,Closeness,PageRank
+Microtus Oeconomus,4,3,0,6,6,0.0,0.55,0.0611
+Lepus Arcticus,1,0,0,5,5,0.0,0.55,0.0611
+Canis Lupus Arctos,1,0,3,0,3,0.0,0.4231,0.1147
+Rangifer Tarandus,1,0,0,3,3,0.0,0.4583,0.0611
+Ovibos Moschatus,1,0,0,2,2,0.0,0.3235,0.0611
+Mustela Erminea,1,0,1,1,2,0.0,0.3793,0.0697
+Bubo Scandiacus,1,0,2,0,2,0.0,0.3793,0.129
+Vulpes Lagopus,1,0,2,0,2,0.0,0.5,0.0801
+Vulpes Vulpes,1,0,2,0,2,0.0,0.5,0.0801
+Gulo Gulo,1,0,3,0,3,0.0,0.55,0.0974
+Ursus Horribilis,1,0,3,0,3,0.0,0.4231,0.1147
+Buteo Lagopus,1,0,1,0,1,0.0,0.3667,0.0697

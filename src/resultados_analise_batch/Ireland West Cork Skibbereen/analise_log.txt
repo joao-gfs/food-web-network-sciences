@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Ireland West Cork Skibbereen.graphml
+Resultados serão salvos em: resultados_analise_batch/Ireland West Cork Skibbereen
+Log de execução salvo em: resultados_analise_batch/Ireland West Cork Skibbereen/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 334
+Número total de interações (arestas): 4492
+Número de espécies basais (produtores primários): 166
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Ireland West Cork Skibbereen/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+               Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+     Oikopleura Dioica                 3                      2             4           4           8        198.9     0.3596    0.0013
+        Electra Pilosa                 3                      2             0           5           5          0.0     0.4017    0.0011
+  Escharella Variolosa                 3                      2             0           6           6          0.0     0.4036    0.0011
+ Lepidonotos Squamatus                 3                      2             0          40          40          0.0     0.4948    0.0011
+      Fish Eggs/Larvae                 2                      1             0          52          52          0.0     0.5362    0.0011
+Menmbraiporella Nitida                 2                      1             0           4           4          0.0     0.4007    0.0011
+  Nitzschia Closterium                 1                      0             0          15          15          0.0     0.4199    0.0011
+  Skeletonema Costatum                 1                      0             0          15          15          0.0     0.4199    0.0011
+    Podosira Stelliger                 1                      0             0          15          15          0.0     0.4199    0.0011
+ Phaeocystis Pouchetii                 1                      0             0          15          15          0.0     0.4199    0.0011
+
+Ranking completo salvo em: resultados_analise_batch/Ireland West Cork Skibbereen/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Oikopleura Dioica
+Snapshots da cascata salvos em: resultados_analise_batch/Ireland West Cork Skibbereen/3_cascata_detalhada
+Total de passos gerados: 4
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Ireland West Cork Skibbereen/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Oikopleura Dioica
+Histograma de perda de dieta salvo em: resultados_analise_batch/Ireland West Cork Skibbereen/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 53
+Espécies com perda crítica (>= 50%): 0

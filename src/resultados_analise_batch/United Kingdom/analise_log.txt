@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/United Kingdom.graphml
+Resultados serão salvos em: resultados_analise_batch/United Kingdom
+Log de execução salvo em: resultados_analise_batch/United Kingdom/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 265
+Número total de interações (arestas): 6593
+Número de espécies basais (produtores primários): 133
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/United Kingdom/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+                   Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+Achnanthes Austriaca Minor                 1                      0             0           5           5         0.00     0.4068    0.0008
+   Amphinemura Sulcicollis                 1                      0            23           1          24         5.69     0.4272    0.0022
+      Achnanthes Helvetica                 1                      0             0          36          36         0.00     0.5126    0.0008
+            Eunotia Exigua                 1                      0             0          22          22         0.00     0.4774    0.0008
+        Eunotia Rhomboidea                 1                      0             0          22          22         0.00     0.4774    0.0008
+       Eunotia Vanheurckii                 1                      0             0          13          13         0.00     0.4342    0.0008
+     Fragilaria Vaucheriae                 1                      0             0          34          34         0.00     0.4944    0.0008
+    Pinnularia Subcapitata                 1                      0             0          19          19         0.00     0.4664    0.0008
+     Tabellaria Flocculosa                 1                      0             0          52          52         0.00     0.5344    0.0008
+          Brachyptera Risi                 1                      0            16           1          17         1.57     0.4177    0.0016
+
+Ranking completo salvo em: resultados_analise_batch/United Kingdom/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Achnanthes Austriaca Minor
+Snapshots da cascata salvos em: resultados_analise_batch/United Kingdom/3_cascata_detalhada
+Total de passos gerados: 3
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/United Kingdom/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Achnanthes Austriaca Minor
+Histograma de perda de dieta salvo em: resultados_analise_batch/United Kingdom/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 5
+Espécies com perda crítica (>= 50%): 0

@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/High arctic terrestrial field sites.graphml
+Resultados serão salvos em: resultados_analise_batch/High arctic terrestrial field sites
+Log de execução salvo em: resultados_analise_batch/High arctic terrestrial field sites/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 12
+Número total de interações (arestas): 17
+Número de espécies basais (produtores primários): 4
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/High arctic terrestrial field sites/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+           Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+Microtus Oeconomus                 4                      3             0           6           6          0.0     0.5500    0.0611
+    Lepus Arcticus                 1                      0             0           5           5          0.0     0.5500    0.0611
+Canis Lupus Arctos                 1                      0             3           0           3          0.0     0.4231    0.1147
+ Rangifer Tarandus                 1                      0             0           3           3          0.0     0.4583    0.0611
+  Ovibos Moschatus                 1                      0             0           2           2          0.0     0.3235    0.0611
+   Mustela Erminea                 1                      0             1           1           2          0.0     0.3793    0.0697
+   Bubo Scandiacus                 1                      0             2           0           2          0.0     0.3793    0.1290
+    Vulpes Lagopus                 1                      0             2           0           2          0.0     0.5000    0.0801
+     Vulpes Vulpes                 1                      0             2           0           2          0.0     0.5000    0.0801
+         Gulo Gulo                 1                      0             3           0           3          0.0     0.5500    0.0974
+
+Ranking completo salvo em: resultados_analise_batch/High arctic terrestrial field sites/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Microtus Oeconomus
+Snapshots da cascata salvos em: resultados_analise_batch/High arctic terrestrial field sites/3_cascata_detalhada
+Total de passos gerados: 5
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/High arctic terrestrial field sites/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Microtus Oeconomus
+Histograma de perda de dieta salvo em: resultados_analise_batch/High arctic terrestrial field sites/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 3
+Espécies com perda crítica (>= 50%): 2

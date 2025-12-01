@@ -10,62 +10,62 @@
   <key id="e_interaction_type" for="edge" attr.name="interaction_type" attr.type="string"/>
   <graph id="G" edgedefault="directed">
     <node id="n0">
-      <data key="v_name">Lepus arcticus</data>
+      <data key="v_name">Lepus Arcticus</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n0</data>
     </node>
     <node id="n1">
-      <data key="v_name">Canis lupus arctos</data>
+      <data key="v_name">Canis Lupus Arctos</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n1</data>
     </node>
     <node id="n2">
-      <data key="v_name">Rangifer tarandus</data>
+      <data key="v_name">Rangifer Tarandus</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n2</data>
     </node>
     <node id="n3">
-      <data key="v_name">Ovibos moschatus</data>
+      <data key="v_name">Ovibos Moschatus</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n3</data>
     </node>
     <node id="n4">
-      <data key="v_name">Mustela erminea</data>
+      <data key="v_name">Mustela Erminea</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n4</data>
     </node>
     <node id="n5">
-      <data key="v_name">Bubo scandiacus</data>
+      <data key="v_name">Bubo Scandiacus</data>
       <data key="v_movement_type">flying</data>
       <data key="v_id">n5</data>
     </node>
     <node id="n6">
-      <data key="v_name">Microtus oeconomus</data>
+      <data key="v_name">Microtus Oeconomus</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n6</data>
     </node>
     <node id="n7">
-      <data key="v_name">Vulpes lagopus</data>
+      <data key="v_name">Vulpes Lagopus</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n7</data>
     </node>
     <node id="n8">
-      <data key="v_name">Vulpes vulpes</data>
+      <data key="v_name">Vulpes Vulpes</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n8</data>
     </node>
     <node id="n9">
-      <data key="v_name">Gulo gulo</data>
+      <data key="v_name">Gulo Gulo</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n9</data>
     </node>
     <node id="n10">
-      <data key="v_name">Ursus horribilis</data>
+      <data key="v_name">Ursus Horribilis</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n10</data>
     </node>
     <node id="n11">
-      <data key="v_name">Buteo lagopus</data>
+      <data key="v_name">Buteo Lagopus</data>
       <data key="v_movement_type">flying</data>
       <data key="v_id">n11</data>
     </node>

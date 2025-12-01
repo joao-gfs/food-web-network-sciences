@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Iceland.graphml
+Resultados serão salvos em: resultados_analise_batch/Iceland
+Log de execução salvo em: resultados_analise_batch/Iceland/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 55
+Número total de interações (arestas): 432
+Número de espécies basais (produtores primários): 39
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Iceland/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+                   Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+            Diamesa Zernyi                 1                      0            37           6          43        30.31     0.8060    0.0328
+       Clinocera Stagnalis                 1                      0             9           0           9         0.00     0.5400    0.0684
+Eukiefferiella Claripennis                 1                      0            22           6          28        17.31     0.6585    0.0226
+      Eukiefferiella Minor                 1                      0            39           6          45        34.37     0.8571    0.0355
+ Micropsectra Atrofasciata                 1                      0            39           6          45        34.37     0.8571    0.0355
+         Simulium Vittatum                 1                      0            39           4          43        24.96     0.8182    0.0355
+         Achnanthes Exigua                 1                      0             0          11          11         0.00     0.5567    0.0079
+     Achnanthes Lanceolata                 1                      0             0          11          11         0.00     0.5567    0.0079
+        Amphora Inariensis                 1                      0             0          11          11         0.00     0.5567    0.0079
+         Amphora Pediculus                 1                      0             0          11          11         0.00     0.5567    0.0079
+
+Ranking completo salvo em: resultados_analise_batch/Iceland/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Diamesa Zernyi
+Snapshots da cascata salvos em: resultados_analise_batch/Iceland/3_cascata_detalhada
+Total de passos gerados: 3
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Iceland/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Diamesa Zernyi
+Histograma de perda de dieta salvo em: resultados_analise_batch/Iceland/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 6
+Espécies com perda crítica (>= 50%): 0

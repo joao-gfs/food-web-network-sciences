@@ -9,127 +9,127 @@
   <key id="e_interaction_type" for="edge" attr.name="interaction_type" attr.type="string"/>
   <graph id="G" edgedefault="directed">
     <node id="n0">
-      <data key="v_name">Fungal mycelium</data>
+      <data key="v_name">Fungal Mycelium</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n1">
-      <data key="v_name">Achaeta abulba</data>
+      <data key="v_name">Achaeta Abulba</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n2">
-      <data key="v_name">Acrobeles ciliatus</data>
+      <data key="v_name">Acrobeles Ciliatus</data>
       <data key="v_movement_type">other</data>
     </node>
     <node id="n3">
-      <data key="v_name">Achipteria coleoptrata</data>
+      <data key="v_name">Achipteria Coleoptrata</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n4">
-      <data key="v_name">Aglenchus agricola</data>
+      <data key="v_name">Aglenchus Agricola</data>
       <data key="v_movement_type">other</data>
     </node>
     <node id="n5">
-      <data key="v_name">Heterocephalobus elongatus</data>
+      <data key="v_name">Heterocephalobus Elongatus</data>
       <data key="v_movement_type">other</data>
     </node>
     <node id="n6">
-      <data key="v_name">Meloidogyne naasi</data>
+      <data key="v_name">Meloidogyne Naasi</data>
       <data key="v_movement_type">other</data>
     </node>
     <node id="n7">
-      <data key="v_name">Metateratocephalus crassidens</data>
+      <data key="v_name">Metateratocephalus Crassidens</data>
       <data key="v_movement_type">other</data>
     </node>
     <node id="n8">
-      <data key="v_name">Paratrichodorus teres</data>
+      <data key="v_name">Paratrichodorus Teres</data>
       <data key="v_movement_type">other</data>
     </node>
     <node id="n9">
-      <data key="v_name">Pratylenchus crenatus</data>
+      <data key="v_name">Pratylenchus Crenatus</data>
       <data key="v_movement_type">other</data>
     </node>
     <node id="n10">
-      <data key="v_name">Tylenchorhynchus dubius</data>
+      <data key="v_name">Tylenchorhynchus Dubius</data>
       <data key="v_movement_type">other</data>
     </node>
     <node id="n11">
-      <data key="v_name">Alliphis siculus</data>
+      <data key="v_name">Alliphis Siculus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n12">
-      <data key="v_name">Aporcelaimellus obtusicaudatus</data>
+      <data key="v_name">Aporcelaimellus Obtusicaudatus</data>
       <data key="v_movement_type">other</data>
     </node>
     <node id="n13">
-      <data key="v_name">Ceratophysella denticulata</data>
+      <data key="v_name">Ceratophysella Denticulata</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n14">
-      <data key="v_name">Fridericia alata</data>
+      <data key="v_name">Fridericia Alata</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n15">
-      <data key="v_name">Fridericia bulboides</data>
+      <data key="v_name">Fridericia Bulboides</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n16">
-      <data key="v_name">Fridericia cylindrica</data>
+      <data key="v_name">Fridericia Cylindrica</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n17">
-      <data key="v_name">Fridericia paroniana</data>
+      <data key="v_name">Fridericia Paroniana</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n18">
-      <data key="v_name">Friesea truncata</data>
+      <data key="v_name">Friesea Truncata</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n19">
-      <data key="v_name">Isotomiella minor</data>
+      <data key="v_name">Isotomiella Minor</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n20">
-      <data key="v_name">Liebstadia similis</data>
+      <data key="v_name">Liebstadia Similis</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n21">
-      <data key="v_name">Parisotoma notabilis</data>
+      <data key="v_name">Parisotoma Notabilis</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n22">
-      <data key="v_name">Uropoda orbicularis</data>
+      <data key="v_name">Uropoda Orbicularis</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n23">
-      <data key="v_name">Sminthurinus elegans</data>
+      <data key="v_name">Sminthurinus Elegans</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n24">
-      <data key="v_name">Sphaeridia pumilis</data>
+      <data key="v_name">Sphaeridia Pumilis</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n25">
-      <data key="v_name">Anaplectus grandepapillatus</data>
+      <data key="v_name">Anaplectus Grandepapillatus</data>
       <data key="v_movement_type">other</data>
     </node>
     <node id="n26">
-      <data key="v_name">Brachystomella parvula</data>
+      <data key="v_name">Brachystomella Parvula</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n27">
-      <data key="v_name">Fridericia bisetosa</data>
+      <data key="v_name">Fridericia Bisetosa</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n28">
-      <data key="v_name">Fridericia perrieri</data>
+      <data key="v_name">Fridericia Perrieri</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n29">
-      <data key="v_name">Fridericia hegemon</data>
+      <data key="v_name">Fridericia Hegemon</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n30">
-      <data key="v_name">Pseudisotoma sensibilis</data>
+      <data key="v_name">Pseudisotoma Sensibilis</data>
       <data key="v_movement_type">walking</data>
     </node>
     <edge source="n0" target="n1">

@@ -9,223 +9,223 @@
   <key id="e_interaction_type" for="edge" attr.name="interaction_type" attr.type="string"/>
   <graph id="G" edgedefault="directed">
     <node id="n0">
-      <data key="v_name">Diamesa zernyi</data>
+      <data key="v_name">Diamesa Zernyi</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n1">
-      <data key="v_name">Clinocera stagnalis</data>
+      <data key="v_name">Clinocera Stagnalis</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n2">
-      <data key="v_name">Eukiefferiella claripennis</data>
+      <data key="v_name">Eukiefferiella Claripennis</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n3">
-      <data key="v_name">Eukiefferiella minor</data>
+      <data key="v_name">Eukiefferiella Minor</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n4">
-      <data key="v_name">Micropsectra atrofasciata</data>
+      <data key="v_name">Micropsectra Atrofasciata</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n5">
-      <data key="v_name">Simulium vittatum</data>
+      <data key="v_name">Simulium Vittatum</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n6">
-      <data key="v_name">Achnanthes exigua</data>
+      <data key="v_name">Achnanthes Exigua</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n7">
-      <data key="v_name">Achnanthes lanceolata</data>
+      <data key="v_name">Achnanthes Lanceolata</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n8">
-      <data key="v_name">Amphora inariensis</data>
+      <data key="v_name">Amphora Inariensis</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n9">
-      <data key="v_name">Amphora pediculus</data>
+      <data key="v_name">Amphora Pediculus</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n10">
-      <data key="v_name">Cocconeis pediculus</data>
+      <data key="v_name">Cocconeis Pediculus</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n11">
-      <data key="v_name">Cocconeis placentula</data>
+      <data key="v_name">Cocconeis Placentula</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n12">
-      <data key="v_name">Cocconeis placentula var. euglypta</data>
+      <data key="v_name">Cocconeis Placentula Var. Euglypta</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n13">
-      <data key="v_name">Diatoma mesodon</data>
+      <data key="v_name">Diatoma Mesodon</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n14">
-      <data key="v_name">Gomphonema clevei</data>
+      <data key="v_name">Gomphonema Clevei</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n15">
-      <data key="v_name">Nitzschia inconspicua</data>
+      <data key="v_name">Nitzschia Inconspicua</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n16">
-      <data key="v_name">Pinnularia intermedia</data>
+      <data key="v_name">Pinnularia Intermedia</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n17">
-      <data key="v_name">Dicranota exclusa</data>
+      <data key="v_name">Dicranota Exclusa</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n18">
-      <data key="v_name">Potamophylax cingulatus</data>
+      <data key="v_name">Potamophylax Cingulatus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n19">
-      <data key="v_name">Sperchon glandulosus</data>
+      <data key="v_name">Sperchon Glandulosus</data>
       <data key="v_movement_type">swimming</data>
     </node>
     <node id="n20">
-      <data key="v_name">Diamesa bertrami</data>
+      <data key="v_name">Diamesa Bertrami</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n21">
-      <data key="v_name">Prosimulium ursinum</data>
+      <data key="v_name">Prosimulium Ursinum</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n22">
-      <data key="v_name">Rheocricotopus effesus</data>
+      <data key="v_name">Rheocricotopus Effesus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n23">
-      <data key="v_name">Simulium aureum</data>
+      <data key="v_name">Simulium Aureum</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n24">
-      <data key="v_name">Achnanthes grana</data>
+      <data key="v_name">Achnanthes Grana</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n25">
-      <data key="v_name">Achnanthes lutheri</data>
+      <data key="v_name">Achnanthes Lutheri</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n26">
-      <data key="v_name">Achnanthes minutissima</data>
+      <data key="v_name">Achnanthes Minutissima</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n27">
-      <data key="v_name">Amphora ovalis</data>
+      <data key="v_name">Amphora Ovalis</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n28">
-      <data key="v_name">Cymbella sinuata</data>
+      <data key="v_name">Cymbella Sinuata</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n29">
-      <data key="v_name">Fragilaria capucina var. capucina</data>
+      <data key="v_name">Fragilaria Capucina Var. Capucina</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n30">
-      <data key="v_name">Fragilaria pinnata</data>
+      <data key="v_name">Fragilaria Pinnata</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n31">
-      <data key="v_name">Gomphonema clavatum</data>
+      <data key="v_name">Gomphonema Clavatum</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n32">
-      <data key="v_name">Meridion circulare</data>
+      <data key="v_name">Meridion Circulare</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n33">
-      <data key="v_name">Navicula cryptotenella</data>
+      <data key="v_name">Navicula Cryptotenella</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n34">
-      <data key="v_name">Navicula elginensis</data>
+      <data key="v_name">Navicula Elginensis</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n35">
-      <data key="v_name">Navicula gallica</data>
+      <data key="v_name">Navicula Gallica</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n36">
-      <data key="v_name">Navicula minima</data>
+      <data key="v_name">Navicula Minima</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n37">
-      <data key="v_name">Navicula placentula</data>
+      <data key="v_name">Navicula Placentula</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n38">
-      <data key="v_name">Navicula viridula</data>
+      <data key="v_name">Navicula Viridula</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n39">
-      <data key="v_name">Nitzschia dissipata</data>
+      <data key="v_name">Nitzschia Dissipata</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n40">
-      <data key="v_name">Nitzschia fonticola</data>
+      <data key="v_name">Nitzschia Fonticola</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n41">
-      <data key="v_name">Nitzschia frustulum</data>
+      <data key="v_name">Nitzschia Frustulum</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n42">
-      <data key="v_name">Nitzschia palea</data>
+      <data key="v_name">Nitzschia Palea</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n43">
-      <data key="v_name">Nitzschia paleacea</data>
+      <data key="v_name">Nitzschia Paleacea</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n44">
-      <data key="v_name">Rhoicosphenia abbreviata</data>
+      <data key="v_name">Rhoicosphenia Abbreviata</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n45">
-      <data key="v_name">Rhopalodia gibba</data>
+      <data key="v_name">Rhopalodia Gibba</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n46">
-      <data key="v_name">Stauroneis pseudosubobtusoides</data>
+      <data key="v_name">Stauroneis Pseudosubobtusoides</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n47">
-      <data key="v_name">Synedra ulna</data>
+      <data key="v_name">Synedra Ulna</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n48">
-      <data key="v_name">Radix balthica</data>
+      <data key="v_name">Radix Balthica</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n49">
-      <data key="v_name">Gomphonema parvulum</data>
+      <data key="v_name">Gomphonema Parvulum</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n50">
-      <data key="v_name">Melosira varians</data>
+      <data key="v_name">Melosira Varians</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n51">
-      <data key="v_name">Limnophora riparia</data>
+      <data key="v_name">Limnophora Riparia</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n52">
-      <data key="v_name">Salmo trutta</data>
+      <data key="v_name">Salmo Trutta</data>
       <data key="v_movement_type">swimming</data>
     </node>
     <node id="n53">
-      <data key="v_name">Fragilaria capucina var. rumpens</data>
+      <data key="v_name">Fragilaria Capucina Var. Rumpens</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n54">
-      <data key="v_name">Gomphonema angustatum</data>
+      <data key="v_name">Gomphonema Angustatum</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <edge source="n0" target="n1">

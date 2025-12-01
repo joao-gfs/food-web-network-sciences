@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Santa Barbara, California, USA.graphml
+Resultados serão salvos em: resultados_analise_batch/Santa Barbara, California, USA
+Log de execução salvo em: resultados_analise_batch/Santa Barbara, California, USA/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 102
+Número total de interações (arestas): 1136
+Número de espécies basais (produtores primários): 18
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Santa Barbara, California, USA/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+                    Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+          Polydora Nuchalis                 2                      1             9          27          36       365.69     0.5739    0.0120
+   Traskorchestia Traskiana                 2                      1             0          10          10         0.00     0.4280    0.0017
+      Gillichthys Mirabilis                 2                      1            11          19          30       168.06     0.5401    0.0067
+    Hemigrapsus Oregonensis                 2                      1            14          32          46       223.93     0.6121    0.0069
+            Procyon Locator                 2                      1             7           5          12       171.16     0.5101    0.0087
+         Carinoma Mutabilis                 1                      0             2          14          16         0.00     0.5000    0.0022
+               Limosa Fedoa                 1                      0            14          10          24        37.68     0.5459    0.0064
+    Recurvirostra Americana                 1                      0             8          12          20       257.80     0.5206    0.0161
+             Culex Tarsalis                 1                      0            43          10          53       986.04     0.6235    0.0737
+Catoptrophorus Semipalmatus                 1                      0            23          11          34       282.25     0.5706    0.0212
+
+Ranking completo salvo em: resultados_analise_batch/Santa Barbara, California, USA/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Polydora Nuchalis
+Snapshots da cascata salvos em: resultados_analise_batch/Santa Barbara, California, USA/3_cascata_detalhada
+Total de passos gerados: 4
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Santa Barbara, California, USA/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Polydora Nuchalis
+Histograma de perda de dieta salvo em: resultados_analise_batch/Santa Barbara, California, USA/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 26
+Espécies com perda crítica (>= 50%): 1

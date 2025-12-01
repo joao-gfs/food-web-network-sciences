@@ -1,0 +1,56 @@
+Espécie,Extinções Totais,Extinções Secundárias,Grau Entrada,Grau Saída,Grau Total,Betweenness,Closeness,PageRank
+Diamesa Zernyi,1,0,37,6,43,30.31,0.806,0.0328
+Clinocera Stagnalis,1,0,9,0,9,0.0,0.54,0.0684
+Eukiefferiella Claripennis,1,0,22,6,28,17.31,0.6585,0.0226
+Eukiefferiella Minor,1,0,39,6,45,34.37,0.8571,0.0355
+Micropsectra Atrofasciata,1,0,39,6,45,34.37,0.8571,0.0355
+Simulium Vittatum,1,0,39,4,43,24.96,0.8182,0.0355
+Achnanthes Exigua,1,0,0,11,11,0.0,0.5567,0.0079
+Achnanthes Lanceolata,1,0,0,11,11,0.0,0.5567,0.0079
+Amphora Inariensis,1,0,0,11,11,0.0,0.5567,0.0079
+Amphora Pediculus,1,0,0,11,11,0.0,0.5567,0.0079
+Cocconeis Pediculus,1,0,0,11,11,0.0,0.5567,0.0079
+Cocconeis Placentula,1,0,0,11,11,0.0,0.5567,0.0079
+Cocconeis Placentula Var. Euglypta,1,0,0,11,11,0.0,0.5567,0.0079
+Diatoma Mesodon,1,0,0,11,11,0.0,0.5567,0.0079
+Gomphonema Clevei,1,0,0,11,11,0.0,0.5567,0.0079
+Nitzschia Inconspicua,1,0,0,11,11,0.0,0.5567,0.0079
+Pinnularia Intermedia,1,0,0,6,6,0.0,0.5143,0.0079
+Dicranota Exclusa,1,0,41,0,41,0.0,0.806,0.0614
+Potamophylax Cingulatus,1,0,9,0,9,0.0,0.54,0.0684
+Sperchon Glandulosus,1,0,6,0,6,0.0,0.5094,0.0385
+Diamesa Bertrami,1,0,34,4,38,14.14,0.7105,0.0297
+Prosimulium Ursinum,1,0,34,2,36,7.97,0.675,0.0297
+Rheocricotopus Effesus,1,0,34,4,38,14.14,0.7105,0.0297
+Simulium Aureum,1,0,38,3,41,15.54,0.7826,0.0343
+Achnanthes Grana,1,0,0,10,10,0.0,0.551,0.0079
+Achnanthes Lutheri,1,0,0,10,10,0.0,0.551,0.0079
+Achnanthes Minutissima,1,0,0,10,10,0.0,0.551,0.0079
+Amphora Ovalis,1,0,0,10,10,0.0,0.551,0.0079
+Cymbella Sinuata,1,0,0,11,11,0.0,0.5567,0.0079
+Fragilaria Capucina Var. Capucina,1,0,0,11,11,0.0,0.5567,0.0079
+Fragilaria Pinnata,1,0,0,10,10,0.0,0.551,0.0079
+Gomphonema Clavatum,1,0,0,11,11,0.0,0.5567,0.0079
+Meridion Circulare,1,0,0,11,11,0.0,0.5567,0.0079
+Navicula Cryptotenella,1,0,0,10,10,0.0,0.551,0.0079
+Navicula Elginensis,1,0,0,10,10,0.0,0.551,0.0079
+Navicula Gallica,1,0,0,11,11,0.0,0.5567,0.0079
+Navicula Minima,1,0,0,11,11,0.0,0.5567,0.0079
+Navicula Placentula,1,0,0,10,10,0.0,0.551,0.0079
+Navicula Viridula,1,0,0,10,10,0.0,0.551,0.0079
+Nitzschia Dissipata,1,0,0,10,10,0.0,0.551,0.0079
+Nitzschia Fonticola,1,0,0,10,10,0.0,0.551,0.0079
+Nitzschia Frustulum,1,0,0,10,10,0.0,0.551,0.0079
+Nitzschia Palea,1,0,0,10,10,0.0,0.551,0.0079
+Nitzschia Paleacea,1,0,0,10,10,0.0,0.551,0.0079
+Rhoicosphenia Abbreviata,1,0,0,11,11,0.0,0.5567,0.0079
+Rhopalodia Gibba,1,0,0,10,10,0.0,0.551,0.0079
+Stauroneis Pseudosubobtusoides,1,0,0,11,11,0.0,0.5567,0.0079
+Synedra Ulna,1,0,0,11,11,0.0,0.5567,0.0079
+Radix Balthica,1,0,38,1,39,5.9,0.7397,0.0343
+Gomphonema Parvulum,1,0,0,7,7,0.0,0.5192,0.0079
+Melosira Varians,1,0,0,7,7,0.0,0.5192,0.0079
+Limnophora Riparia,1,0,5,1,6,0.0,0.5143,0.0334
+Salmo Trutta,1,0,8,0,8,0.0,0.5243,0.1007
+Fragilaria Capucina Var. Rumpens,1,0,0,5,5,0.0,0.5,0.0079
+Gomphonema Angustatum,1,0,0,5,5,0.0,0.5,0.0079

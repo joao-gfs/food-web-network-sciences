@@ -10,154 +10,144 @@
   <key id="e_interaction_type" for="edge" attr.name="interaction_type" attr.type="string"/>
   <graph id="G" edgedefault="directed">
     <node id="n0">
-      <data key="v_name">Salmo trutta</data>
+      <data key="v_name">Salmo Trutta</data>
       <data key="v_movement_type">swimming</data>
       <data key="v_id">n0</data>
     </node>
     <node id="n1">
-      <data key="v_name">Sigara	lateralis</data>
+      <data key="v_name">Sigara Lateralis</data>
       <data key="v_movement_type">swimming</data>
       <data key="v_id">n1</data>
     </node>
     <node id="n2">
-      <data key="v_name">Oreodytes davisii</data>
+      <data key="v_name">Oreodytes Davisii</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n2</data>
     </node>
     <node id="n3">
-      <data key="v_name">Sigara lateralis</data>
-      <data key="v_movement_type">swimming</data>
+      <data key="v_name">Halesus Radiatus</data>
+      <data key="v_movement_type">walking</data>
       <data key="v_id">n3</data>
     </node>
     <node id="n4">
-      <data key="v_name">Halesus radiatus</data>
+      <data key="v_name">Sialis Lutaria</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n4</data>
     </node>
     <node id="n5">
-      <data key="v_name">Sialis lutaria</data>
+      <data key="v_name">Plectrocnemia Conspersa</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n5</data>
     </node>
     <node id="n6">
-      <data key="v_name">Plectrocnemia conspersa</data>
+      <data key="v_name">Nemoura Cambrica</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n6</data>
     </node>
     <node id="n7">
-      <data key="v_name">Nemoura cambrica</data>
+      <data key="v_name">Capnia Vidua</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n7</data>
     </node>
     <node id="n8">
-      <data key="v_name">Capnia vidua</data>
+      <data key="v_name">Leuctra Nigra</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n8</data>
     </node>
     <node id="n9">
-      <data key="v_name">Leuctra nigra</data>
-      <data key="v_movement_type">walking</data>
+      <data key="v_name">Fragilaria Vaucheriae</data>
+      <data key="v_movement_type">sessile</data>
       <data key="v_id">n9</data>
     </node>
     <node id="n10">
-      <data key="v_name">Fragilaria vaucheriae</data>
+      <data key="v_name">Fragilaria Virescens</data>
       <data key="v_movement_type">sessile</data>
       <data key="v_id">n10</data>
     </node>
     <node id="n11">
-      <data key="v_name">Fragilaria virescens</data>
+      <data key="v_name">Frustulia Rhomboides Var Saxonica</data>
       <data key="v_movement_type">sessile</data>
       <data key="v_id">n11</data>
     </node>
     <node id="n12">
-      <data key="v_name">Frustulia rhomboides var saxonica</data>
+      <data key="v_name">Frustulia Rhomboides Var Viridula</data>
       <data key="v_movement_type">sessile</data>
       <data key="v_id">n12</data>
     </node>
     <node id="n13">
-      <data key="v_name">Frustulia rhomboides var viridula</data>
+      <data key="v_name">Diatoma Hyemale Var Mesodon</data>
       <data key="v_movement_type">sessile</data>
       <data key="v_id">n13</data>
     </node>
     <node id="n14">
-      <data key="v_name">Diatoma hyemale var mesodon</data>
+      <data key="v_name">Brachysira Brebissonii</data>
       <data key="v_movement_type">sessile</data>
       <data key="v_id">n14</data>
     </node>
     <node id="n15">
-      <data key="v_name">Brachysira brebissonii</data>
+      <data key="v_name">Peronia Fibula</data>
       <data key="v_movement_type">sessile</data>
       <data key="v_id">n15</data>
     </node>
     <node id="n16">
-      <data key="v_name">Peronia fibula</data>
+      <data key="v_name">Eunotia Incisa</data>
       <data key="v_movement_type">sessile</data>
       <data key="v_id">n16</data>
     </node>
     <node id="n17">
-      <data key="v_name">Eunotia incisa</data>
+      <data key="v_name">Eunotia Curvata</data>
       <data key="v_movement_type">sessile</data>
       <data key="v_id">n17</data>
     </node>
     <node id="n18">
-      <data key="v_name">Eunotia curvata</data>
+      <data key="v_name">Tabellaria Flocculosa</data>
       <data key="v_movement_type">sessile</data>
       <data key="v_id">n18</data>
     </node>
     <node id="n19">
-      <data key="v_name">Tabellaria flocculosa</data>
+      <data key="v_name">Aulacoseira Distans Var Nivalis</data>
       <data key="v_movement_type">sessile</data>
       <data key="v_id">n19</data>
     </node>
     <node id="n20">
-      <data key="v_name">Aulacoseira distans var nivalis</data>
+      <data key="v_name">Achnanthes Austriaca Var Helvetica</data>
       <data key="v_movement_type">sessile</data>
       <data key="v_id">n20</data>
     </node>
     <node id="n21">
-      <data key="v_name">Achnanthes austriaca var helvetica</data>
+      <data key="v_name">Achnanthes Marginulata</data>
       <data key="v_movement_type">sessile</data>
       <data key="v_id">n21</data>
     </node>
     <node id="n22">
-      <data key="v_name">Achnanthes marginulata</data>
+      <data key="v_name">Eunotia Denticulata</data>
       <data key="v_movement_type">sessile</data>
       <data key="v_id">n22</data>
     </node>
     <node id="n23">
-      <data key="v_name">Eunotia denticulata</data>
+      <data key="v_name">Eunotia Rhomboidea</data>
       <data key="v_movement_type">sessile</data>
       <data key="v_id">n23</data>
     </node>
     <node id="n24">
-      <data key="v_name">Eunotia rhomboidea</data>
+      <data key="v_name">Eunotia Vanheurckii Var Intermedia</data>
       <data key="v_movement_type">sessile</data>
       <data key="v_id">n24</data>
     </node>
     <node id="n25">
-      <data key="v_name">Eunotia vanheurckii var intermedia</data>
-      <data key="v_movement_type">sessile</data>
+      <data key="v_name">Chaetopteryx Villosa</data>
+      <data key="v_movement_type">walking</data>
       <data key="v_id">n25</data>
     </node>
     <node id="n26">
-      <data key="v_name">Chaetopteryx	villosa</data>
+      <data key="v_name">Diura Bicaudata</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n26</data>
     </node>
     <node id="n27">
-      <data key="v_name">Diura bicaudata</data>
+      <data key="v_name">Siphonoperla Torrentium</data>
       <data key="v_movement_type">walking</data>
       <data key="v_id">n27</data>
-    </node>
-    <node id="n28">
-      <data key="v_name">Siphonoperla	torrentium</data>
-      <data key="v_movement_type">walking</data>
-      <data key="v_id">n28</data>
-    </node>
-    <node id="n29">
-      <data key="v_name">Siphonoperla torrentium</data>
-      <data key="v_movement_type">walking</data>
-      <data key="v_id">n29</data>
     </node>
     <edge source="n0" target="n0">
       <data key="e_interaction_type">predacious</data>
@@ -165,10 +155,13 @@
     <edge source="n1" target="n0">
       <data key="e_interaction_type">predacious</data>
     </edge>
-    <edge source="n2" target="n3">
+    <edge source="n2" target="n1">
       <data key="e_interaction_type">predacious</data>
     </edge>
     <edge source="n2" target="n0">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n3" target="n0">
       <data key="e_interaction_type">predacious</data>
     </edge>
     <edge source="n4" target="n0">
@@ -186,202 +179,10 @@
     <edge source="n8" target="n0">
       <data key="e_interaction_type">predacious</data>
     </edge>
-    <edge source="n9" target="n0">
+    <edge source="n4" target="n1">
       <data key="e_interaction_type">predacious</data>
     </edge>
-    <edge source="n5" target="n3">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n10" target="n8">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n11" target="n8">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n12" target="n8">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n13" target="n8">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n14" target="n8">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n15" target="n8">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n16" target="n8">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n17" target="n8">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n18" target="n8">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n19" target="n8">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n20" target="n8">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n21" target="n8">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n22" target="n8">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n23" target="n8">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n24" target="n8">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n25" target="n8">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n10" target="n26">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n11" target="n26">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n12" target="n26">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n13" target="n26">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n14" target="n26">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n15" target="n26">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n16" target="n26">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n17" target="n26">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n18" target="n26">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n19" target="n26">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n20" target="n26">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n21" target="n26">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n22" target="n26">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n23" target="n26">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n24" target="n26">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n25" target="n26">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n10" target="n4">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n11" target="n4">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n12" target="n4">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n13" target="n4">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n14" target="n4">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n15" target="n4">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n16" target="n4">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n17" target="n4">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n18" target="n4">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n19" target="n4">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n20" target="n4">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n21" target="n4">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n22" target="n4">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n23" target="n4">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n24" target="n4">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n25" target="n4">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n10" target="n9">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n11" target="n9">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n12" target="n9">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n13" target="n9">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n14" target="n9">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n15" target="n9">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n16" target="n9">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n17" target="n9">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n18" target="n9">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n19" target="n9">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n20" target="n9">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n21" target="n9">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n22" target="n9">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n23" target="n9">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n24" target="n9">
-      <data key="e_interaction_type">herbivorous</data>
-    </edge>
-    <edge source="n25" target="n9">
+    <edge source="n9" target="n7">
       <data key="e_interaction_type">herbivorous</data>
     </edge>
     <edge source="n10" target="n7">
@@ -409,10 +210,10 @@
       <data key="e_interaction_type">herbivorous</data>
     </edge>
     <edge source="n18" target="n7">
-      <data key="e_interaction_type">herbivorous</data>
+      <data key="e_interaction_type">predacious</data>
     </edge>
     <edge source="n19" target="n7">
-      <data key="e_interaction_type">predacious</data>
+      <data key="e_interaction_type">herbivorous</data>
     </edge>
     <edge source="n20" target="n7">
       <data key="e_interaction_type">herbivorous</data>
@@ -429,7 +230,151 @@
     <edge source="n24" target="n7">
       <data key="e_interaction_type">herbivorous</data>
     </edge>
-    <edge source="n25" target="n7">
+    <edge source="n9" target="n25">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n10" target="n25">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n11" target="n25">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n12" target="n25">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n13" target="n25">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n14" target="n25">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n15" target="n25">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n16" target="n25">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n17" target="n25">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n18" target="n25">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n19" target="n25">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n20" target="n25">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n21" target="n25">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n22" target="n25">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n23" target="n25">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n24" target="n25">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n9" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n10" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n11" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n12" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n13" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n14" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n15" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n16" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n17" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n18" target="n3">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n19" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n20" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n21" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n22" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n23" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n24" target="n3">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n9" target="n8">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n10" target="n8">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n11" target="n8">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n12" target="n8">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n13" target="n8">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n14" target="n8">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n15" target="n8">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n16" target="n8">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n17" target="n8">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n18" target="n8">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n19" target="n8">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n20" target="n8">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n21" target="n8">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n22" target="n8">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n23" target="n8">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n24" target="n8">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n9" target="n6">
       <data key="e_interaction_type">herbivorous</data>
     </edge>
     <edge source="n10" target="n6">
@@ -457,10 +402,10 @@
       <data key="e_interaction_type">herbivorous</data>
     </edge>
     <edge source="n18" target="n6">
-      <data key="e_interaction_type">herbivorous</data>
+      <data key="e_interaction_type">predacious</data>
     </edge>
     <edge source="n19" target="n6">
-      <data key="e_interaction_type">predacious</data>
+      <data key="e_interaction_type">herbivorous</data>
     </edge>
     <edge source="n20" target="n6">
       <data key="e_interaction_type">herbivorous</data>
@@ -477,7 +422,7 @@
     <edge source="n24" target="n6">
       <data key="e_interaction_type">herbivorous</data>
     </edge>
-    <edge source="n25" target="n6">
+    <edge source="n9" target="n5">
       <data key="e_interaction_type">herbivorous</data>
     </edge>
     <edge source="n10" target="n5">
@@ -505,10 +450,10 @@
       <data key="e_interaction_type">herbivorous</data>
     </edge>
     <edge source="n18" target="n5">
-      <data key="e_interaction_type">herbivorous</data>
+      <data key="e_interaction_type">predacious</data>
     </edge>
     <edge source="n19" target="n5">
-      <data key="e_interaction_type">predacious</data>
+      <data key="e_interaction_type">herbivorous</data>
     </edge>
     <edge source="n20" target="n5">
       <data key="e_interaction_type">herbivorous</data>
@@ -525,58 +470,85 @@
     <edge source="n24" target="n5">
       <data key="e_interaction_type">herbivorous</data>
     </edge>
-    <edge source="n25" target="n5">
+    <edge source="n9" target="n4">
       <data key="e_interaction_type">herbivorous</data>
     </edge>
-    <edge source="n3" target="n2">
+    <edge source="n10" target="n4">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n11" target="n4">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n12" target="n4">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n13" target="n4">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n14" target="n4">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n15" target="n4">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n16" target="n4">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n17" target="n4">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n18" target="n4">
       <data key="e_interaction_type">predacious</data>
     </edge>
-    <edge source="n3" target="n6">
+    <edge source="n19" target="n4">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n20" target="n4">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n21" target="n4">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n22" target="n4">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n23" target="n4">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n24" target="n4">
+      <data key="e_interaction_type">herbivorous</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n1" target="n5">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n1" target="n4">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n6" target="n26">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n27" target="n26">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n8" target="n26">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n4" target="n2">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n6" target="n2">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n2" target="n5">
       <data key="e_interaction_type">predacious</data>
     </edge>
     <edge source="n3" target="n5">
       <data key="e_interaction_type">predacious</data>
     </edge>
-    <edge source="n7" target="n27">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n28" target="n27">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n9" target="n27">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n5" target="n2">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n7" target="n2">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n2" target="n6">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n4" target="n6">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n5" target="n6">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n6" target="n6">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n7" target="n6">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n8" target="n6">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n29" target="n6">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n9" target="n6">
-      <data key="e_interaction_type">predacious</data>
-    </edge>
-    <edge source="n2" target="n5">
+    <edge source="n4" target="n5">
       <data key="e_interaction_type">predacious</data>
     </edge>
     <edge source="n5" target="n5">
@@ -588,19 +560,37 @@
     <edge source="n7" target="n5">
       <data key="e_interaction_type">predacious</data>
     </edge>
-    <edge source="n28" target="n5">
+    <edge source="n27" target="n5">
       <data key="e_interaction_type">predacious</data>
     </edge>
-    <edge source="n9" target="n5">
+    <edge source="n8" target="n5">
       <data key="e_interaction_type">predacious</data>
     </edge>
-    <edge source="n7" target="n28">
+    <edge source="n2" target="n4">
       <data key="e_interaction_type">predacious</data>
     </edge>
-    <edge source="n28" target="n28">
+    <edge source="n4" target="n4">
       <data key="e_interaction_type">predacious</data>
     </edge>
-    <edge source="n9" target="n28">
+    <edge source="n5" target="n4">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n6" target="n4">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n27" target="n4">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n8" target="n4">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n6" target="n27">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n27" target="n27">
+      <data key="e_interaction_type">predacious</data>
+    </edge>
+    <edge source="n8" target="n27">
       <data key="e_interaction_type">predacious</data>
     </edge>
   </graph>

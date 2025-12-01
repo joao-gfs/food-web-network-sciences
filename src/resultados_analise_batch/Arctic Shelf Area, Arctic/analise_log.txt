@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Arctic Shelf Area, Arctic.graphml
+Resultados serão salvos em: resultados_analise_batch/Arctic Shelf Area, Arctic
+Log de execução salvo em: resultados_analise_batch/Arctic Shelf Area, Arctic/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 227
+Número total de interações (arestas): 1012
+Número de espécies basais (produtores primários): 138
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Arctic Shelf Area, Arctic/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+               Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+  Laminaria Saccharina                 6                      5             0          25          25         0.00     0.3844    0.0015
+ Calanus Finnmarchicus                 3                      2            28          12          40       355.10     0.3582    0.0087
+      Boreogadus Saida                 2                      1            22          17          39       254.59     0.4209    0.0081
+     Calanus Glacialis                 2                      1             0           8           8         0.00     0.3275    0.0015
+       Metridia Lucens                 2                      1             1           7           8        28.00     0.3143    0.0021
+ Laminaria Solidungula                 2                      1             0          15          15         0.00     0.3450    0.0015
+Sabinea Septemcarinata                 2                      1             3          10          13        48.61     0.3910    0.0024
+         Nereis Zonata                 1                      0             4          10          14         8.36     0.3930    0.0021
+ Aglaophamus Malmgreni                 1                      0            12           4          16         0.72     0.3570    0.0043
+       Nephtys Ciliata                 1                      0             0           9           9         0.00     0.3897    0.0015
+
+Ranking completo salvo em: resultados_analise_batch/Arctic Shelf Area, Arctic/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Laminaria Saccharina
+Snapshots da cascata salvos em: resultados_analise_batch/Arctic Shelf Area, Arctic/3_cascata_detalhada
+Total de passos gerados: 4
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Arctic Shelf Area, Arctic/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Laminaria Saccharina
+Histograma de perda de dieta salvo em: resultados_analise_batch/Arctic Shelf Area, Arctic/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 20
+Espécies com perda crítica (>= 50%): 0

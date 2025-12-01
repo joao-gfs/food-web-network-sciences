@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Madeira.graphml
+Resultados serão salvos em: resultados_analise_batch/Madeira
+Log de execução salvo em: resultados_analise_batch/Madeira/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 31
+Número total de interações (arestas): 145
+Número de espécies basais (produtores primários): 13
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Madeira/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+                 Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+         Padina Pavonica                 3                      2             0          16          16         0.00     0.6818    0.0052
+        Omalogyra Atomus                 2                      1            11           4          15        14.35     0.6667    0.0113
+       Caulerpa Webbiana                 1                      0             0          12          12         0.00     0.6250    0.0052
+             Liza Ramada                 1                      0             9           1          10         0.20     0.5660    0.0105
+        Lipophrys Pholis                 1                      0            21           4          25        12.05     0.7692    0.1034
+Coryphoblennius Galerita                 1                      0            21           4          25        12.60     0.7692    0.1024
+Parablennius Parvicornis                 1                      0             8           3          11         0.20     0.6122    0.0094
+        Palaemon Elegans                 1                      0            10           6          16         3.22     0.6522    0.0111
+    Cladophora Prolifera                 1                      0             0          12          12         0.00     0.6250    0.0052
+     Halopteris Filicina                 1                      0             0           7           7         0.00     0.5172    0.0052
+
+Ranking completo salvo em: resultados_analise_batch/Madeira/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Padina Pavonica
+Snapshots da cascata salvos em: resultados_analise_batch/Madeira/3_cascata_detalhada
+Total de passos gerados: 4
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Madeira/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Padina Pavonica
+Histograma de perda de dieta salvo em: resultados_analise_batch/Madeira/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 14
+Espécies com perda crítica (>= 50%): 0

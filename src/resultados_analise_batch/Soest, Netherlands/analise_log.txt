@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Soest, Netherlands.graphml
+Resultados serão salvos em: resultados_analise_batch/Soest, Netherlands
+Log de execução salvo em: resultados_analise_batch/Soest, Netherlands/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 31
+Número total de interações (arestas): 59
+Número de espécies basais (produtores primários): 12
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Soest, Netherlands/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+                      Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+              Fungal Mycelium                16                     15             0          18          18          0.0     0.7143    0.0195
+               Achaeta Abulba                 1                      0             1           0           1          0.0     0.4225    0.0205
+           Acrobeles Ciliatus                 1                      0             0           4           4          0.0     0.4545    0.0195
+       Achipteria Coleoptrata                 1                      0             9           1          10          1.0     0.5882    0.0551
+           Aglenchus Agricola                 1                      0             0           4           4          0.0     0.4545    0.0195
+   Heterocephalobus Elongatus                 1                      0             0           3           3          0.0     0.4054    0.0195
+            Meloidogyne Naasi                 1                      0             0           4           4          0.0     0.4545    0.0195
+Metateratocephalus Crassidens                 1                      0             0           4           4          0.0     0.4545    0.0195
+        Paratrichodorus Teres                 1                      0             0           4           4          0.0     0.4545    0.0195
+        Pratylenchus Crenatus                 1                      0             0           4           4          0.0     0.4545    0.0195
+
+Ranking completo salvo em: resultados_analise_batch/Soest, Netherlands/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Fungal Mycelium
+Snapshots da cascata salvos em: resultados_analise_batch/Soest, Netherlands/3_cascata_detalhada
+Total de passos gerados: 4
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Soest, Netherlands/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Fungal Mycelium
+Histograma de perda de dieta salvo em: resultados_analise_batch/Soest, Netherlands/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 3
+Espécies com perda crítica (>= 50%): 0

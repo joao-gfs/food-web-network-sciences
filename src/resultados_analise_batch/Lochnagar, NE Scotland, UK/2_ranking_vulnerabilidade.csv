@@ -1,0 +1,29 @@
+Espécie,Extinções Totais,Extinções Secundárias,Grau Entrada,Grau Saída,Grau Total,Betweenness,Closeness,PageRank
+Salmo Trutta,1,0,9,1,10,0.0,0.5745,0.5401
+Sigara Lateralis,1,0,2,4,6,0.0,0.5192,0.0262
+Oreodytes Davisii,1,0,3,4,7,0.5,0.54,0.0284
+Halesus Radiatus,1,0,16,2,18,2.67,0.7297,0.0188
+Sialis Lutaria,1,0,23,5,28,37.67,0.871,0.0808
+Plectrocnemia Conspersa,1,0,25,3,28,9.17,0.931,0.0968
+Nemoura Cambrica,1,0,16,6,22,26.67,0.8438,0.0188
+Capnia Vidua,1,0,16,2,18,2.67,0.7297,0.0188
+Leuctra Nigra,1,0,16,5,21,18.67,0.8182,0.0188
+Fragilaria Vaucheriae,1,0,0,7,7,0.0,0.5745,0.0064
+Fragilaria Virescens,1,0,0,7,7,0.0,0.5745,0.0064
+Frustulia Rhomboides Var Saxonica,1,0,0,7,7,0.0,0.5745,0.0064
+Frustulia Rhomboides Var Viridula,1,0,0,7,7,0.0,0.5745,0.0064
+Diatoma Hyemale Var Mesodon,1,0,0,7,7,0.0,0.5745,0.0064
+Brachysira Brebissonii,1,0,0,7,7,0.0,0.5745,0.0064
+Peronia Fibula,1,0,0,7,7,0.0,0.5745,0.0064
+Eunotia Incisa,1,0,0,7,7,0.0,0.5745,0.0064
+Eunotia Curvata,1,0,0,7,7,0.0,0.5745,0.0064
+Tabellaria Flocculosa,1,0,0,7,7,0.0,0.5745,0.0064
+Aulacoseira Distans Var Nivalis,1,0,0,7,7,0.0,0.5745,0.0064
+Achnanthes Austriaca Var Helvetica,1,0,0,7,7,0.0,0.5745,0.0064
+Achnanthes Marginulata,1,0,0,7,7,0.0,0.5745,0.0064
+Eunotia Denticulata,1,0,0,7,7,0.0,0.5745,0.0064
+Eunotia Rhomboidea,1,0,0,7,7,0.0,0.5745,0.0064
+Eunotia Vanheurckii Var Intermedia,1,0,0,7,7,0.0,0.5745,0.0064
+Chaetopteryx Villosa,1,0,16,0,16,0.0,0.6279,0.0188
+Diura Bicaudata,1,0,3,0,3,0.0,0.4909,0.0156
+Siphonoperla Torrentium,1,0,3,4,7,0.0,0.54,0.0156

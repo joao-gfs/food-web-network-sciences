@@ -9,207 +9,207 @@
   <key id="e_interaction_type" for="edge" attr.name="interaction_type" attr.type="string"/>
   <graph id="G" edgedefault="directed">
     <node id="n0">
-      <data key="v_name">Bryopsis plumosa</data>
+      <data key="v_name">Bryopsis Plumosa</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n1">
-      <data key="v_name">Eulithidium affine</data>
+      <data key="v_name">Eulithidium Affine</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n2">
-      <data key="v_name">Tegula viridula</data>
+      <data key="v_name">Tegula Viridula</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n3">
-      <data key="v_name">Eriphia gonagra</data>
+      <data key="v_name">Eriphia Gonagra</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n4">
-      <data key="v_name">Pomacanthus paru</data>
+      <data key="v_name">Pomacanthus Paru</data>
       <data key="v_movement_type">swimming</data>
     </node>
     <node id="n5">
-      <data key="v_name">Abudefduf saxatilis</data>
+      <data key="v_name">Abudefduf Saxatilis</data>
       <data key="v_movement_type">swimming</data>
     </node>
     <node id="n6">
-      <data key="v_name">Pachygrapsus transversus</data>
+      <data key="v_name">Pachygrapsus Transversus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n7">
-      <data key="v_name">Ischnochiton striolatus</data>
+      <data key="v_name">Ischnochiton Striolatus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n8">
-      <data key="v_name">Menippe nodifrons</data>
+      <data key="v_name">Menippe Nodifrons</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n9">
-      <data key="v_name">Engina turbinella</data>
+      <data key="v_name">Engina Turbinella</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n10">
-      <data key="v_name">Clibanarius antillensis</data>
+      <data key="v_name">Clibanarius Antillensis</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n11">
-      <data key="v_name">Caulerpa racemosa</data>
+      <data key="v_name">Caulerpa Racemosa</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n12">
-      <data key="v_name">Caulerpa prolifera</data>
+      <data key="v_name">Caulerpa Prolifera</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n13">
-      <data key="v_name">Caulerpa scalpelliformis</data>
+      <data key="v_name">Caulerpa Scalpelliformis</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n14">
-      <data key="v_name">Codium decorticatum</data>
+      <data key="v_name">Codium Decorticatum</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n15">
-      <data key="v_name">Valonia aegagropila</data>
+      <data key="v_name">Valonia Aegagropila</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n16">
-      <data key="v_name">Ulva lactuca</data>
+      <data key="v_name">Ulva Lactuca</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n17">
-      <data key="v_name">Dictyopteris delicatula</data>
+      <data key="v_name">Dictyopteris Delicatula</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n18">
-      <data key="v_name">Lobophora variegata</data>
+      <data key="v_name">Lobophora Variegata</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n19">
-      <data key="v_name">Padina gymnospora</data>
+      <data key="v_name">Padina Gymnospora</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n20">
-      <data key="v_name">Sargassum vulgare</data>
+      <data key="v_name">Sargassum Vulgare</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n21">
-      <data key="v_name">Sphacelaria sp.</data>
+      <data key="v_name">Sphacelaria Sp.</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n22">
-      <data key="v_name">Hypnea musciformis</data>
+      <data key="v_name">Hypnea Musciformis</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n23">
-      <data key="v_name">Gracilaria domingensis</data>
+      <data key="v_name">Gracilaria Domingensis</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n24">
-      <data key="v_name">Cryptonemia crenulata</data>
+      <data key="v_name">Cryptonemia Crenulata</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n25">
-      <data key="v_name">Plocamium brasiliense</data>
+      <data key="v_name">Plocamium Brasiliense</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n26">
-      <data key="v_name">Cinachyrella alloclada</data>
+      <data key="v_name">Cinachyrella Alloclada</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n27">
-      <data key="v_name">Protopalythoa variabilis</data>
+      <data key="v_name">Protopalythoa Variabilis</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n28">
-      <data key="v_name">Stramonita haemastoma</data>
+      <data key="v_name">Stramonita Haemastoma</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n29">
-      <data key="v_name">Columbella mercatoria</data>
+      <data key="v_name">Columbella Mercatoria</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n30">
-      <data key="v_name">Bathygobius soporator</data>
+      <data key="v_name">Bathygobius Soporator</data>
       <data key="v_movement_type">swimming</data>
     </node>
     <node id="n31">
-      <data key="v_name">Scartella cristata</data>
+      <data key="v_name">Scartella Cristata</data>
       <data key="v_movement_type">swimming</data>
     </node>
     <node id="n32">
-      <data key="v_name">Ischnoplax pectinata</data>
+      <data key="v_name">Ischnoplax Pectinata</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n33">
-      <data key="v_name">Hippolyte obliquimanus</data>
+      <data key="v_name">Hippolyte Obliquimanus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n34">
-      <data key="v_name">Dictyota menstrualis</data>
+      <data key="v_name">Dictyota Menstrualis</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n35">
-      <data key="v_name">Sargassum cymosum</data>
+      <data key="v_name">Sargassum Cymosum</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n36">
-      <data key="v_name">Lithophyllum sp.</data>
+      <data key="v_name">Lithophyllum Sp.</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n37">
-      <data key="v_name">Anemonia sargassensis</data>
+      <data key="v_name">Anemonia Sargassensis</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n38">
-      <data key="v_name">Bryopsis pennata</data>
+      <data key="v_name">Bryopsis Pennata</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n39">
-      <data key="v_name">Fissurella rosea</data>
+      <data key="v_name">Fissurella Rosea</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n40">
-      <data key="v_name">Epialtus brasiliensis</data>
+      <data key="v_name">Epialtus Brasiliensis</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n41">
-      <data key="v_name">Spatoglossum schroederi</data>
+      <data key="v_name">Spatoglossum Schroederi</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n42">
-      <data key="v_name">Cerithium atratum</data>
+      <data key="v_name">Cerithium Atratum</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n43">
-      <data key="v_name">Bittiolum varium</data>
+      <data key="v_name">Bittiolum Varium</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n44">
-      <data key="v_name">Acanthophora spicifera</data>
+      <data key="v_name">Acanthophora Spicifera</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n45">
-      <data key="v_name">Gracilaria sp.</data>
+      <data key="v_name">Gracilaria Sp.</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n46">
-      <data key="v_name">Chthamalus bisinuatus</data>
+      <data key="v_name">Chthamalus Bisinuatus</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n47">
-      <data key="v_name">Centroceras clavulatum</data>
+      <data key="v_name">Centroceras Clavulatum</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n48">
-      <data key="v_name">Chondria curvilineata</data>
+      <data key="v_name">Chondria Curvilineata</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n49">
-      <data key="v_name">Aplysia dactylomela</data>
+      <data key="v_name">Aplysia Dactylomela</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n50">
-      <data key="v_name">Dictyota mertensii</data>
+      <data key="v_name">Dictyota Mertensii</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n51">
@@ -217,51 +217,51 @@
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n52">
-      <data key="v_name">Aurantilaria aurantiaca</data>
+      <data key="v_name">Aurantilaria Aurantiaca</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n53">
-      <data key="v_name">Panopeus herbstii</data>
+      <data key="v_name">Panopeus Herbstii</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n54">
-      <data key="v_name">Neogonodactylus sp.</data>
+      <data key="v_name">Neogonodactylus Sp.</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n55">
-      <data key="v_name">Lithopoma phoebium</data>
+      <data key="v_name">Lithopoma Phoebium</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n56">
-      <data key="v_name">Caulerpa cupressoides</data>
+      <data key="v_name">Caulerpa Cupressoides</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n57">
-      <data key="v_name">Palaemon northropi</data>
+      <data key="v_name">Palaemon Northropi</data>
       <data key="v_movement_type">swimming</data>
     </node>
     <node id="n58">
-      <data key="v_name">Haemulon parra</data>
+      <data key="v_name">Haemulon Parra</data>
       <data key="v_movement_type">swimming</data>
     </node>
     <node id="n59">
-      <data key="v_name">Callinectes ornatus</data>
+      <data key="v_name">Callinectes Ornatus</data>
       <data key="v_movement_type">swimming</data>
     </node>
     <node id="n60">
-      <data key="v_name">Gelidium pusillum</data>
+      <data key="v_name">Gelidium Pusillum</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <node id="n61">
-      <data key="v_name">Lysmata sp.</data>
+      <data key="v_name">Lysmata Sp.</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n62">
-      <data key="v_name">Astyris lunata</data>
+      <data key="v_name">Astyris Lunata</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n63">
-      <data key="v_name">Chaetomorpha gracilaris</data>
+      <data key="v_name">Chaetomorpha Gracilaris</data>
       <data key="v_movement_type">sessile</data>
     </node>
     <edge source="n0" target="n1">

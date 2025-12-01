@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Switzerland, Lake Neuchatel.graphml
+Resultados serão salvos em: resultados_analise_batch/Switzerland, Lake Neuchatel
+Log de execução salvo em: resultados_analise_batch/Switzerland, Lake Neuchatel/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 215
+Número total de interações (arestas): 1616
+Número de espécies basais (produtores primários): 96
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Switzerland, Lake Neuchatel/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+                Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+            Acari Phyto                 9                      8             0           8           8         0.00     0.3690    0.0015
+     Edaphus Blÿhweissi                 4                      3             4          21          25       332.02     0.3912    0.0029
+      Asellus Aquaticus                 4                      3             0           7           7         0.00     0.3849    0.0015
+      Chrysotus Cilipes                 3                      2             0          14          14         0.00     0.3815    0.0015
+   Euconnus Hirticollis                 3                      2             2          11          13        12.83     0.3549    0.0018
+Trogophloeus Corticinus                 2                      1             0          10          10         0.00     0.4449    0.0015
+  Thripomorpha Verralli                 2                      1             0           5           5         0.00     0.3402    0.0015
+       Cepaea Hortensis                 2                      1             0           8           8         0.00     0.4412    0.0015
+    Capreolus Capreolus                 2                      1             0           1           1         0.00     0.3070    0.0015
+       Stilicus Rufipes                 1                      0            43          16          59      1134.48     0.5323    0.0158
+
+Ranking completo salvo em: resultados_analise_batch/Switzerland, Lake Neuchatel/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Acari Phyto
+Snapshots da cascata salvos em: resultados_analise_batch/Switzerland, Lake Neuchatel/3_cascata_detalhada
+Total de passos gerados: 6
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Switzerland, Lake Neuchatel/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Acari Phyto
+Histograma de perda de dieta salvo em: resultados_analise_batch/Switzerland, Lake Neuchatel/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 43
+Espécies com perda crítica (>= 50%): 4

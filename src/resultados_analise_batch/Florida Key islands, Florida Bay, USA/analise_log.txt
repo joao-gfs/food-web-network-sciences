@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Florida Key islands, Florida Bay, USA.graphml
+Resultados serão salvos em: resultados_analise_batch/Florida Key islands, Florida Bay, USA
+Log de execução salvo em: resultados_analise_batch/Florida Key islands, Florida Bay, USA/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 108
+Número total de interações (arestas): 1138
+Número de espécies basais (produtores primários): 27
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Florida Key islands, Florida Bay, USA/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+                  Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+        Rhizophora Mangle                49                     48             0          44          44         0.00     0.6294    0.0024
+     Littorina Angulifera                 2                      1             1           4           5         2.20     0.5120    0.0024
+      Ornitnonyssus Bursa                 1                      0             0           4           4         0.00     0.5071    0.0024
+      Agelaius Phoeniceus                 1                      0           105           0         105         0.00     0.9817    0.1170
+      Carthasis Decoratus                 1                      0            19          12          31        78.58     0.5753    0.0092
+Metatropiphorus Belfragei                 1                      0            19          12          31        78.58     0.5753    0.0092
+         Cheyletia Wellsi                 1                      0            10           3          13        22.67     0.5323    0.0058
+      Carpoglyphus Lactis                 1                      0             1           4           5         0.33     0.5120    0.0024
+ Tyrophagus Putrescentiae                 1                      0             0           4           4         0.00     0.5071    0.0024
+      Rhizoglyphus Callae                 1                      0             0           4           4         0.00     0.5071    0.0024
+
+Ranking completo salvo em: resultados_analise_batch/Florida Key islands, Florida Bay, USA/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Rhizophora Mangle
+Snapshots da cascata salvos em: resultados_analise_batch/Florida Key islands, Florida Bay, USA/3_cascata_detalhada
+Total de passos gerados: 5
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Florida Key islands, Florida Bay, USA/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Rhizophora Mangle
+Histograma de perda de dieta salvo em: resultados_analise_batch/Florida Key islands, Florida Bay, USA/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 30
+Espécies com perda crítica (>= 50%): 26

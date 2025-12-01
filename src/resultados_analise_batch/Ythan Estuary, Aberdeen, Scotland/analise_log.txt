@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Ythan Estuary, Aberdeen, Scotland.graphml
+Resultados serão salvos em: resultados_analise_batch/Ythan Estuary, Aberdeen, Scotland
+Log de execução salvo em: resultados_analise_batch/Ythan Estuary, Aberdeen, Scotland/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 73
+Número total de interações (arestas): 311
+Número de espécies basais (produtores primários): 22
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Ythan Estuary, Aberdeen, Scotland/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+               Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+          Enteromorpha                 9                      8             0          13          13         0.00     0.5333    0.0073
+        Hydrobia Ulvae                 2                      1             1          19          20         7.82     0.5714    0.0077
+   Nereis Diversicolor                 2                      1             4          25          29        43.08     0.6154    0.0104
+Semibalanus Balanoides                 2                      1             0          13          13         0.00     0.5106    0.0073
+     Anguilla Anguilla                 1                      0             6           4          10         6.65     0.4557    0.0100
+           Lutra Lutra                 1                      0             5           0           5         0.00     0.3850    0.0223
+      Pholis Gunnellus                 1                      0            11           3          14        11.40     0.5070    0.0136
+     Zoarces Viviparus                 1                      0             9           4          13        11.25     0.4832    0.0117
+Myoxocephalus Scorpius                 1                      0             7           3          10         9.15     0.5180    0.0161
+          Salmo Trutta                 1                      0             5           4           9         4.11     0.4615    0.0094
+
+Ranking completo salvo em: resultados_analise_batch/Ythan Estuary, Aberdeen, Scotland/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Enteromorpha
+Snapshots da cascata salvos em: resultados_analise_batch/Ythan Estuary, Aberdeen, Scotland/3_cascata_detalhada
+Total de passos gerados: 5
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Ythan Estuary, Aberdeen, Scotland/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Enteromorpha
+Histograma de perda de dieta salvo em: resultados_analise_batch/Ythan Estuary, Aberdeen, Scotland/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 24
+Espécies com perda crítica (>= 50%): 5

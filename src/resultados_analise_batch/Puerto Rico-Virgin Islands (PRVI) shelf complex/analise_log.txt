@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Puerto Rico-Virgin Islands (PRVI) shelf complex.graphml
+Resultados serão salvos em: resultados_analise_batch/Puerto Rico-Virgin Islands (PRVI) shelf complex
+Log de execução salvo em: resultados_analise_batch/Puerto Rico-Virgin Islands (PRVI) shelf complex/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 207
+Número total de interações (arestas): 1988
+Número de espécies basais (produtores primários): 113
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Puerto Rico-Virgin Islands (PRVI) shelf complex/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+                     Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+            Sipunculid Worms                15                     14             0          21          21         0.00     0.4568    0.0016
+      Jenkinsia Lamprotaenia                 8                      7             0          33          33         0.00     0.5421    0.0016
+Hypoatherina Harringtonensis                 3                      2             0          25          25         0.00     0.5323    0.0016
+        Haemulon Carbonarium                 2                      1             5          19          24        31.89     0.5309    0.0021
+        Holacanthus Tricolor                 2                      1             0           5           5         0.00     0.5049    0.0016
+       Haemulon Aurolineatum                 2                      1             0          24          24         0.00     0.5309    0.0016
+       Sphoeroides Spengleri                 2                      1             0          11          11         0.00     0.5099    0.0016
+           Scorpaena Inermis                 2                      1             0           3           3         0.00     0.4952    0.0016
+ Coryphopterus Glaucofraenum                 2                      1             0           7           7         0.00     0.5012    0.0016
+         Acanthurus Chirugus                 1                      0             0          19          19         0.00     0.5242    0.0016
+
+Ranking completo salvo em: resultados_analise_batch/Puerto Rico-Virgin Islands (PRVI) shelf complex/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Sipunculid Worms
+Snapshots da cascata salvos em: resultados_analise_batch/Puerto Rico-Virgin Islands (PRVI) shelf complex/3_cascata_detalhada
+Total de passos gerados: 4
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Puerto Rico-Virgin Islands (PRVI) shelf complex/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Sipunculid Worms
+Histograma de perda de dieta salvo em: resultados_analise_batch/Puerto Rico-Virgin Islands (PRVI) shelf complex/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 36
+Espécies com perda crítica (>= 50%): 5

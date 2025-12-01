@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Lochnagar, NE Scotland, UK.graphml
+Resultados serão salvos em: resultados_analise_batch/Lochnagar, NE Scotland, UK
+Log de execução salvo em: resultados_analise_batch/Lochnagar, NE Scotland, UK/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 28
+Número total de interações (arestas): 148
+Número de espécies basais (produtores primários): 16
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Lochnagar, NE Scotland, UK/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+                Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+           Salmo Trutta                 1                      0             9           1          10         0.00     0.5745    0.5401
+       Sigara Lateralis                 1                      0             2           4           6         0.00     0.5192    0.0262
+      Oreodytes Davisii                 1                      0             3           4           7         0.50     0.5400    0.0284
+       Halesus Radiatus                 1                      0            16           2          18         2.67     0.7297    0.0188
+         Sialis Lutaria                 1                      0            23           5          28        37.67     0.8710    0.0808
+Plectrocnemia Conspersa                 1                      0            25           3          28         9.17     0.9310    0.0968
+       Nemoura Cambrica                 1                      0            16           6          22        26.67     0.8438    0.0188
+           Capnia Vidua                 1                      0            16           2          18         2.67     0.7297    0.0188
+          Leuctra Nigra                 1                      0            16           5          21        18.67     0.8182    0.0188
+  Fragilaria Vaucheriae                 1                      0             0           7           7         0.00     0.5745    0.0064
+
+Ranking completo salvo em: resultados_analise_batch/Lochnagar, NE Scotland, UK/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Salmo Trutta
+Snapshots da cascata salvos em: resultados_analise_batch/Lochnagar, NE Scotland, UK/3_cascata_detalhada
+Total de passos gerados: 3
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Lochnagar, NE Scotland, UK/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Salmo Trutta
+Histograma de perda de dieta salvo em: resultados_analise_batch/Lochnagar, NE Scotland, UK/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 0
+Espécies com perda crítica (>= 50%): 0

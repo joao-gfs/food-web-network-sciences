@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/USA.graphml
+Resultados serão salvos em: resultados_analise_batch/USA
+Log de execução salvo em: resultados_analise_batch/USA/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 585
+Número total de interações (arestas): 13895
+Número de espécies basais (produtores primários): 313
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/USA/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+                Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+  Tabellaria Fenestrata                 3                      2             0          21          21         0.00     0.3518    0.0005
+   Conopeum Tenuissimum                 3                      2             0           2           2         0.00     0.2978    0.0005
+    Stenotomus Chrysops                 3                      2           124          12         136      1323.59     0.4779    0.0018
+      Cryptomonas Ovata                 2                      1             0          48          48         0.00     0.3568    0.0005
+           Mya Arenaria                 2                      1             0          35          35         0.00     0.4316    0.0005
+      Mnemiopsis Leidyi                 2                      1            97          11         108      1961.71     0.4687    0.0020
+   Microciona Prolifera                 2                      1             0           2           2         0.00     0.3309    0.0005
+   Bowerbankia Gracilis                 2                      1             0           1           1         0.00     0.2948    0.0005
+ Keratella Taurocephala                 1                      0             3          21          24        22.59     0.4160    0.0006
+Kelicottia Bostoniensis                 1                      0             3          17          20        21.28     0.4019    0.0006
+
+Ranking completo salvo em: resultados_analise_batch/USA/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Tabellaria Fenestrata
+Snapshots da cascata salvos em: resultados_analise_batch/USA/3_cascata_detalhada
+Total de passos gerados: 4
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/USA/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Tabellaria Fenestrata
+Histograma de perda de dieta salvo em: resultados_analise_batch/USA/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 45
+Espécies com perda crítica (>= 50%): 3

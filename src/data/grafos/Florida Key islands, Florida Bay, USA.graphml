@@ -9,435 +9,435 @@
   <key id="e_interaction_type" for="edge" attr.name="interaction_type" attr.type="string"/>
   <graph id="G" edgedefault="directed">
     <node id="n0">
-      <data key="v_name">Ornitnonyssus bursa</data>
+      <data key="v_name">Ornitnonyssus Bursa</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n1">
-      <data key="v_name">Agelaius phoeniceus</data>
+      <data key="v_name">Agelaius Phoeniceus</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n2">
-      <data key="v_name">Carthasis decoratus</data>
+      <data key="v_name">Carthasis Decoratus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n3">
-      <data key="v_name">Metatropiphorus belfragei</data>
+      <data key="v_name">Metatropiphorus Belfragei</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n4">
-      <data key="v_name">Cheyletia wellsi</data>
+      <data key="v_name">Cheyletia Wellsi</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n5">
-      <data key="v_name">Carpoglyphus lactis</data>
+      <data key="v_name">Carpoglyphus Lactis</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n6">
-      <data key="v_name">Tyrophagus putrescentiae</data>
+      <data key="v_name">Tyrophagus Putrescentiae</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n7">
-      <data key="v_name">Rhizoglyphus callae</data>
+      <data key="v_name">Rhizoglyphus Callae</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n8">
-      <data key="v_name">Ooencyrtus submetallicus</data>
+      <data key="v_name">Ooencyrtus Submetallicus</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n9">
-      <data key="v_name">Tapinoma littorale</data>
+      <data key="v_name">Tapinoma Littorale</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n10">
-      <data key="v_name">Monomorium floricola</data>
+      <data key="v_name">Monomorium Floricola</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n11">
-      <data key="v_name">Anurida maritima</data>
+      <data key="v_name">Anurida Maritima</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n12">
-      <data key="v_name">Nephila clavipes</data>
+      <data key="v_name">Nephila Clavipes</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n13">
-      <data key="v_name">Melittobia chalybii</data>
+      <data key="v_name">Melittobia Chalybii</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n14">
-      <data key="v_name">Axelsonia littoralis</data>
+      <data key="v_name">Axelsonia Littoralis</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n15">
-      <data key="v_name">Cryptorhynchus minutissimus</data>
+      <data key="v_name">Cryptorhynchus Minutissimus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n16">
-      <data key="v_name">Xenomyrmex floridanus</data>
+      <data key="v_name">Xenomyrmex Floridanus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n17">
-      <data key="v_name">Dufouriellus afer</data>
+      <data key="v_name">Dufouriellus Afer</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n18">
-      <data key="v_name">Butorides virescens</data>
+      <data key="v_name">Butorides Virescens</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n19">
-      <data key="v_name">Actinopteryx fucicola</data>
+      <data key="v_name">Actinopteryx Fucicola</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n20">
-      <data key="v_name">Hypoponera opacior</data>
+      <data key="v_name">Hypoponera Opacior</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n21">
-      <data key="v_name">Paratrechina bourbonica</data>
+      <data key="v_name">Paratrechina Bourbonica</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n22">
-      <data key="v_name">Crematogaster ashmeadi</data>
+      <data key="v_name">Crematogaster Ashmeadi</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n23">
-      <data key="v_name">Apanteles hemileucae</data>
+      <data key="v_name">Apanteles Hemileucae</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n24">
-      <data key="v_name">Callihormius bifasciatus</data>
+      <data key="v_name">Callihormius Bifasciatus</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n25">
-      <data key="v_name">Iphiaulax epicus</data>
+      <data key="v_name">Iphiaulax Epicus</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n26">
-      <data key="v_name">Metepeira labyrinthea</data>
+      <data key="v_name">Metepeira Labyrinthea</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n27">
-      <data key="v_name">Neurothrips magnafemoraus</data>
+      <data key="v_name">Neurothrips Magnafemoraus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n28">
-      <data key="v_name">Pseudothrips inequalis</data>
+      <data key="v_name">Pseudothrips Inequalis</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n29">
-      <data key="v_name">Cephalonomia waterstoni</data>
+      <data key="v_name">Cephalonomia Waterstoni</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n30">
-      <data key="v_name">Metapelma schwarzi</data>
+      <data key="v_name">Metapelma Schwarzi</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n31">
-      <data key="v_name">Nesepyris floridanus</data>
+      <data key="v_name">Nesepyris Floridanus</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n32">
-      <data key="v_name">Scleroderma macrogaster</data>
+      <data key="v_name">Scleroderma Macrogaster</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n33">
-      <data key="v_name">Stoidis aurata</data>
+      <data key="v_name">Stoidis Aurata</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n34">
-      <data key="v_name">Trischidias atoma</data>
+      <data key="v_name">Trischidias Atoma</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n35">
-      <data key="v_name">Haplothrips flavipes</data>
+      <data key="v_name">Haplothrips Flavipes</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n36">
-      <data key="v_name">Argas radiatus</data>
+      <data key="v_name">Argas Radiatus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n37">
-      <data key="v_name">Archipsocus panama</data>
+      <data key="v_name">Archipsocus Panama</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n38">
-      <data key="v_name">Belaphotroctes okalensis</data>
+      <data key="v_name">Belaphotroctes Okalensis</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n39">
-      <data key="v_name">Echmepteryx hageni</data>
+      <data key="v_name">Echmepteryx Hageni</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n40">
-      <data key="v_name">Ectopsocopsis cryptomeriae</data>
+      <data key="v_name">Ectopsocopsis Cryptomeriae</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n41">
-      <data key="v_name">Embidopsocus laticeps</data>
+      <data key="v_name">Embidopsocus Laticeps</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n42">
-      <data key="v_name">Liposcelis bostrychophilus</data>
+      <data key="v_name">Liposcelis Bostrychophilus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n43">
-      <data key="v_name">Psocidus texanus</data>
+      <data key="v_name">Psocidus Texanus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n44">
-      <data key="v_name">Aedes taeniorhynchus</data>
+      <data key="v_name">Aedes Taeniorhynchus</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n45">
-      <data key="v_name">Lophoproctinus bartachi</data>
+      <data key="v_name">Lophoproctinus Bartachi</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n46">
-      <data key="v_name">Tachys occulator</data>
+      <data key="v_name">Tachys Occulator</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n47">
-      <data key="v_name">Camponotus planatus</data>
+      <data key="v_name">Camponotus Planatus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n48">
-      <data key="v_name">Urolepis rufipes</data>
+      <data key="v_name">Urolepis Rufipes</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n49">
-      <data key="v_name">Trochopus plumbeus</data>
+      <data key="v_name">Trochopus Plumbeus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n50">
-      <data key="v_name">Argiope argentata</data>
+      <data key="v_name">Argiope Argentata</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n51">
-      <data key="v_name">Bembidion contractum</data>
+      <data key="v_name">Bembidion Contractum</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n52">
-      <data key="v_name">Paraphidippus flavus</data>
+      <data key="v_name">Paraphidippus Flavus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n53">
-      <data key="v_name">Diradius caribbeana</data>
+      <data key="v_name">Diradius Caribbeana</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n54">
-      <data key="v_name">Olfersia sordida</data>
+      <data key="v_name">Olfersia Sordida</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n55">
-      <data key="v_name">Gasteracantha ellipsoides</data>
+      <data key="v_name">Gasteracantha Ellipsoides</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n56">
-      <data key="v_name">Maevia vittata</data>
+      <data key="v_name">Maevia Vittata</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n57">
-      <data key="v_name">Aysha velox</data>
+      <data key="v_name">Aysha Velox</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n58">
-      <data key="v_name">Styloleptus biustus</data>
+      <data key="v_name">Styloleptus Biustus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n59">
-      <data key="v_name">Neotermes castaneus</data>
+      <data key="v_name">Neotermes Castaneus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n60">
-      <data key="v_name">Leucauge venusta</data>
+      <data key="v_name">Leucauge Venusta</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n61">
-      <data key="v_name">Hentzia palmarum</data>
+      <data key="v_name">Hentzia Palmarum</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n62">
-      <data key="v_name">Pentacora sphacelata</data>
+      <data key="v_name">Pentacora Sphacelata</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n63">
-      <data key="v_name">Paracryptocerus varians</data>
+      <data key="v_name">Paracryptocerus Varians</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n64">
-      <data key="v_name">Argyrodes nephilae</data>
+      <data key="v_name">Argyrodes Nephilae</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n65">
-      <data key="v_name">Brachymeria psyche</data>
+      <data key="v_name">Brachymeria Psyche</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n66">
-      <data key="v_name">Kalotermes jouteli</data>
+      <data key="v_name">Kalotermes Jouteli</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n67">
-      <data key="v_name">Chauliognathus marginatus</data>
+      <data key="v_name">Chauliognathus Marginatus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n68">
-      <data key="v_name">Ariadna arthuri</data>
+      <data key="v_name">Ariadna Arthuri</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n69">
-      <data key="v_name">Actenodes auronotata</data>
+      <data key="v_name">Actenodes Auronotata</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n70">
-      <data key="v_name">Flatoidinus punctatus</data>
+      <data key="v_name">Flatoidinus Punctatus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n71">
-      <data key="v_name">Metacyrba undata</data>
+      <data key="v_name">Metacyrba Undata</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n72">
-      <data key="v_name">Micronaspis floridana</data>
+      <data key="v_name">Micronaspis Floridana</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n73">
-      <data key="v_name">Camponotus floridanus</data>
+      <data key="v_name">Camponotus Floridanus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n74">
-      <data key="v_name">Camponotus tortuganus</data>
+      <data key="v_name">Camponotus Tortuganus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n75">
-      <data key="v_name">Pseudomyrmex elongatus</data>
+      <data key="v_name">Pseudomyrmex Elongatus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n76">
-      <data key="v_name">Orocharis gryllodes</data>
+      <data key="v_name">Orocharis Gryllodes</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n77">
-      <data key="v_name">Tafaliscu lurida</data>
+      <data key="v_name">Tafaliscu Lurida</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n78">
-      <data key="v_name">Labidura riparia</data>
+      <data key="v_name">Labidura Riparia</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n79">
-      <data key="v_name">Trypoxylon collinum</data>
+      <data key="v_name">Trypoxylon Collinum</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n80">
-      <data key="v_name">Pachodynerus nasidens</data>
+      <data key="v_name">Pachodynerus Nasidens</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n81">
-      <data key="v_name">Alarodia slossoniae</data>
+      <data key="v_name">Alarodia Slossoniae</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n82">
-      <data key="v_name">Rhizophora mangle</data>
+      <data key="v_name">Rhizophora Mangle</data>
       <data key="v_movement_type">other</data>
     </node>
     <node id="n83">
-      <data key="v_name">Oiketicus abbottii</data>
+      <data key="v_name">Oiketicus Abbottii</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n84">
-      <data key="v_name">Calliephialtes ferrugineus</data>
+      <data key="v_name">Calliephialtes Ferrugineus</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n85">
-      <data key="v_name">Casinaria texana</data>
+      <data key="v_name">Casinaria Texana</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n86">
-      <data key="v_name">Littorina angulifera</data>
+      <data key="v_name">Littorina Angulifera</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n87">
-      <data key="v_name">Bema ydda</data>
+      <data key="v_name">Bema Ydda</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n88">
-      <data key="v_name">Orphnaeus brasilianus</data>
+      <data key="v_name">Orphnaeus Brasilianus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n89">
-      <data key="v_name">Acanalonia latifrons</data>
+      <data key="v_name">Acanalonia Latifrons</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n90">
-      <data key="v_name">Oebalus pugnax</data>
+      <data key="v_name">Oebalus Pugnax</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n91">
-      <data key="v_name">Turpilia rostrata</data>
+      <data key="v_name">Turpilia Rostrata</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n92">
-      <data key="v_name">Neurotmeta breviceps</data>
+      <data key="v_name">Neurotmeta Breviceps</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n93">
-      <data key="v_name">Copidita suturalis</data>
+      <data key="v_name">Copidita Suturalis</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n94">
-      <data key="v_name">Vacusus vicinus</data>
+      <data key="v_name">Vacusus Vicinus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n95">
-      <data key="v_name">Ascia monuste</data>
+      <data key="v_name">Ascia Monuste</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n96">
-      <data key="v_name">Psallus conspurcatus</data>
+      <data key="v_name">Psallus Conspurcatus</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n97">
-      <data key="v_name">Phoebis agarithe</data>
+      <data key="v_name">Phoebis Agarithe</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n98">
-      <data key="v_name">Tholeria reversalis</data>
+      <data key="v_name">Tholeria Reversalis</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n99">
-      <data key="v_name">Cryptorama minutum</data>
+      <data key="v_name">Cryptorama Minutum</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n100">
-      <data key="v_name">Arunta interclusa</data>
+      <data key="v_name">Arunta Interclusa</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n101">
-      <data key="v_name">Blissus insularis</data>
+      <data key="v_name">Blissus Insularis</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n102">
-      <data key="v_name">Automeris io</data>
+      <data key="v_name">Automeris Io</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n103">
-      <data key="v_name">Ligia exotica</data>
+      <data key="v_name">Ligia Exotica</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n104">
-      <data key="v_name">Phocides batabano</data>
+      <data key="v_name">Phocides Batabano</data>
       <data key="v_movement_type">flying</data>
     </node>
     <node id="n105">
-      <data key="v_name">Melanophthalma floridana</data>
+      <data key="v_name">Melanophthalma Floridana</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n106">
-      <data key="v_name">Aratus pisonii</data>
+      <data key="v_name">Aratus Pisonii</data>
       <data key="v_movement_type">walking</data>
     </node>
     <node id="n107">
-      <data key="v_name">Sapintus fulvipes</data>
+      <data key="v_name">Sapintus Fulvipes</data>
       <data key="v_movement_type">walking</data>
     </node>
     <edge source="n0" target="n1">

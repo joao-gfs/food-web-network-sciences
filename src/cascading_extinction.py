@@ -111,6 +111,9 @@ class ExtincaoEmCascata:
         especies_a_remover = [vertex.index]
         extintos_secundarios = []
         
+        # Salva snapshot do estado inicial (apenas extinção primária marcada)
+        self.historico_estados.append(copy.deepcopy(self.estados_nos))
+        
         # Verifica iterativamente extinções em cascata
         while especies_a_remover:
             remocoes_atuais = especies_a_remover.copy()
@@ -139,6 +142,10 @@ class ExtincaoEmCascata:
                         especies_a_remover.append(v.index)
                         # Atualiza estado do nó para extinção secundária
                         self.estados_nos[nome_especie] = 'extinto_secundario'
+            
+            # Se houve novas extinções secundárias nesta iteração, salva um snapshot
+            if especies_a_remover:
+                self.historico_estados.append(copy.deepcopy(self.estados_nos))
         
         # Marca nós afetados (perderam arestas mas não foram extintos)
         for nome in vizinhos_afetados:
@@ -146,8 +153,11 @@ class ExtincaoEmCascata:
             if self.estados_nos.get(nome) == 'vivo':
                 self.estados_nos[nome] = 'afetado'
         
-        # Salva snapshot dos estados atuais
-        self.historico_estados.append(copy.deepcopy(self.estados_nos))
+        # Sempre salva snapshot final com nós afetados marcados
+        # Isso captura o estado final com os nós afetados (roxos)
+        if vizinhos_afetados or not extintos_secundarios:
+            self.historico_estados.append(copy.deepcopy(self.estados_nos))
+        
         
         # Registra este evento de extinção
         self.passo_atual += 1
@@ -237,6 +247,9 @@ class ExtincaoEmCascata:
         # Importante: remover do maior índice para o menor para não invalidar índices
         for idx in sorted(indices_a_remover, reverse=True):
             self.grafo.delete_vertices(idx)
+        
+        # Salva snapshot do estado inicial (extinções primárias marcadas, antes da cascata)
+        self.historico_estados.append(copy.deepcopy(self.estados_nos))
             
         # Inicia verificação de cascata (similar ao remove_especie, mas já começou com grupo)
         extintos_secundarios = []
@@ -250,6 +263,10 @@ class ExtincaoEmCascata:
                     extintos_secundarios.append(nome_especie)
                     especies_a_remover.append(v.index)
                     self.estados_nos[nome_especie] = 'extinto_secundario'
+        
+        # Se houve extinções na primeira verificação, salva um snapshot
+        if especies_a_remover:
+            self.historico_estados.append(copy.deepcopy(self.estados_nos))
         
         # Loop de cascata padrão
         while especies_a_remover:
@@ -271,13 +288,20 @@ class ExtincaoEmCascata:
                         extintos_secundarios.append(nome_especie)
                         especies_a_remover.append(v.index)
                         self.estados_nos[nome_especie] = 'extinto_secundario'
+            
+            # Se houve novas extinções secundárias nesta iteração, salva um snapshot
+            if especies_a_remover:
+                self.historico_estados.append(copy.deepcopy(self.estados_nos))
 
         # Marca afetados
         for nome in vizinhos_afetados:
             if self.estados_nos.get(nome) == 'vivo':
                 self.estados_nos[nome] = 'afetado'
         
-        self.historico_estados.append(copy.deepcopy(self.estados_nos))
+        # Sempre salva snapshot final com nós afetados marcados
+        # Isso captura o estado final com os nós afetados (roxos)
+        if vizinhos_afetados or not extintos_secundarios:
+            self.historico_estados.append(copy.deepcopy(self.estados_nos))
         self.passo_atual += 1
         
         evento_extincao = {
@@ -457,8 +481,6 @@ class ExtincaoEmCascata:
         ordem_desenho = indices_fundo + indices_frente
         
         # Identifica arestas removidas (conectadas a nós extintos)
-        cores_arestas = []
-        larguras_arestas = []
         nos_extintos = set()
         
         for v in self.grafo_original.vs:
@@ -467,16 +489,53 @@ class ExtincaoEmCascata:
             if estado in ['extinto_primario', 'extinto_secundario']:
                 nos_extintos.add(v.index)
         
-        for edge in self.grafo_original.es:
+        # Separa arestas em ativas e removidas para plotar em camadas
+        arestas_ativas = []
+        arestas_removidas = []
+        
+        for i, edge in enumerate(self.grafo_original.es):
             # Se qualquer extremidade da aresta está extinta, a aresta é removida
             if edge.source in nos_extintos or edge.target in nos_extintos:
-                cores_arestas.append('#e74c3c')  # Vermelho para arestas removidas
-                larguras_arestas.append(1.0)
+                arestas_removidas.append(i)
             else:
-                cores_arestas.append('#b8c6c7')  # Cinza para arestas normais
-                larguras_arestas.append(0.5)
+                arestas_ativas.append(i)
         
-        # Plota o grafo
+        # CAMADA 1: Plota primeiro os nós e arestas ativas (cinzas) no fundo
+        if arestas_ativas:
+            ig.plot(
+                self.grafo_original,
+                target=ax,
+                layout=layout,
+                vertex_color=cores_vertices,
+                vertex_size=tamanhos_vertices,
+                vertex_label=[''] * len(self.grafo_original.vs),  # Sem labels ainda
+                vertex_frame_width=0.5,
+                vertex_frame_color='white',
+                vertex_order=ordem_desenho,
+                edge_width=[0.25 if i in arestas_ativas else 0 for i in range(len(self.grafo_original.es))],
+                edge_color=['#95a5a6' if i in arestas_ativas else '#00000000' for i in range(len(self.grafo_original.es))],
+                edge_arrow_size=1.3,
+                edge_arrow_width=1,
+            )
+        
+        # CAMADA 2: Plota arestas removidas (vermelhas) por cima
+        if arestas_removidas:
+            ig.plot(
+                self.grafo_original,
+                target=ax,
+                layout=layout,
+                vertex_color=['#00000000'] * len(self.grafo_original.vs),
+                vertex_size=tamanhos_vertices,
+                vertex_label=[''] * len(self.grafo_original.vs),  # Sem labels ainda
+                vertex_frame_width=0,
+                vertex_order=ordem_desenho,
+                edge_width=[0.6 if i in arestas_removidas else 0 for i in range(len(self.grafo_original.es))],
+                edge_color=['#e74c3c' if i in arestas_removidas else '#00000000' for i in range(len(self.grafo_original.es))],
+                edge_arrow_size=2.0,
+                edge_arrow_width=1.3,
+            )
+        
+        # CAMADA 3: Plota novamente os nós com labels para ficarem por cima das arestas
         ig.plot(
             self.grafo_original,
             target=ax,
@@ -484,14 +543,11 @@ class ExtincaoEmCascata:
             vertex_color=cores_vertices,
             vertex_size=tamanhos_vertices,
             vertex_label=labels_vertices,
-            vertex_label_size=7,
+            vertex_label_size=4,  # Reduzido de 7 para 4
             vertex_frame_width=0.5,
             vertex_frame_color='white',
             vertex_order=ordem_desenho,
-            edge_width=larguras_arestas,
-            edge_color=cores_arestas,
-            edge_arrow_size=1,
-            edge_arrow_width=1,
+            edge_width=[0] * len(self.grafo_original.es),  # Sem arestas nesta camada
         )
         
         # Configura título
@@ -601,60 +657,3 @@ class ExtincaoEmCascata:
         self.passo_atual = estado_anterior['passo_atual']
         
         return caminhos_salvos if salvar_dir else None
-    
-    def plotar_comparacao(self, especies: List[str], salvar_path: str = None, 
-                         dpi: int = 150):
-        """
-        Plota comparação lado a lado de múltiplas cascatas.
-        
-        Args:
-            especies: Lista de nomes de espécies para comparar
-            salvar_path: Caminho para salvar imagem (None = não salva)
-            dpi: Resolução da imagem salva
-        """
-        num_especies = len(especies)
-        fig, axes = plt.subplots(1, num_especies, figsize=(6 * num_especies, 6))
-        
-        if num_especies == 1:
-            axes = [axes]
-        
-        # Layout consistente
-        layout = self.grafo_original.layout(ig.Graph.layout_sugiyama)
-        
-        # Salva estado
-        estado_original = {
-            'grafo': self.grafo.copy(),
-            'estados': copy.deepcopy(self.estados_nos),
-            'historico_estados': copy.deepcopy(self.historico_estados),
-            'historico_extincoes': copy.deepcopy(self.historico_extincoes),
-            'passo_atual': self.passo_atual
-        }
-        
-        for i, especie in enumerate(especies):
-            self.reset()
-            resultado = self.remove_especie(especie)
-            
-            # Plota estado final
-            self.plotar_passo(
-                estados=self.estados_nos,
-                titulo=f'{especie}\n{resultado["extincoes_totais"]} extinções',
-                layout=layout,
-                ax=axes[i],
-                mostrar_legenda=(i == num_especies - 1)
-            )
-        
-        # Restaura estado
-        self.grafo = estado_original['grafo']
-        self.estados_nos = estado_original['estados']
-        self.historico_estados = estado_original['historico_estados']
-        self.historico_extincoes = estado_original['historico_extincoes']
-        self.passo_atual = estado_original['passo_atual']
-        
-        plt.tight_layout()
-        
-        if salvar_path:
-            fig.savefig(salvar_path, dpi=dpi, bbox_inches='tight')
-        
-        plt.show()
-        
-        return fig

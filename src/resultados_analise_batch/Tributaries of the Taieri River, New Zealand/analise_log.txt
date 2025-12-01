@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Tributaries of the Taieri River, New Zealand.graphml
+Resultados serão salvos em: resultados_analise_batch/Tributaries of the Taieri River, New Zealand
+Log de execução salvo em: resultados_analise_batch/Tributaries of the Taieri River, New Zealand/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 106
+Número total de interações (arestas): 786
+Número de espécies basais (produtores primários): 60
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Tributaries of the Taieri River, New Zealand/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+                   Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+    Achnanthes Lanceoloata                 1                      0             0          18          18         0.00     0.5122    0.0037
+Aphrophila Noevaezelandiae                 1                      0            46           4          50        75.32     0.6034    0.0261
+           Cymbella Kappii                 1                      0             0          21          21         0.00     0.5122    0.0037
+           Cymbella Minuta                 1                      0             0          27          27         0.00     0.5526    0.0037
+     Fragilaria Vaucheriae                 1                      0             0          26          26         0.00     0.5440    0.0037
+      Frustulia Rhomboides                 1                      0             0          18          18         0.00     0.5000    0.0037
+  Gomphonema Cf. Olivaceum                 1                      0             0          20          20         0.00     0.5224    0.0037
+       Gomphonema Parvulum                 1                      0             0          26          26         0.00     0.5469    0.0037
+        Meridion Circulare                 1                      0             0          14          14         0.00     0.4817    0.0037
+         Navicula Avenacea                 1                      0             0          28          28         0.00     0.5526    0.0037
+
+Ranking completo salvo em: resultados_analise_batch/Tributaries of the Taieri River, New Zealand/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Achnanthes Lanceoloata
+Snapshots da cascata salvos em: resultados_analise_batch/Tributaries of the Taieri River, New Zealand/3_cascata_detalhada
+Total de passos gerados: 3
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Tributaries of the Taieri River, New Zealand/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Achnanthes Lanceoloata
+Histograma de perda de dieta salvo em: resultados_analise_batch/Tributaries of the Taieri River, New Zealand/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 18
+Espécies com perda crítica (>= 50%): 0

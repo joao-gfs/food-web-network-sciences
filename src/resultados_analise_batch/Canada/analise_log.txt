@@ -1,0 +1,45 @@
+Iniciando análise para: data/grafos_limpos/Canada.graphml
+Resultados serão salvos em: resultados_analise_batch/Canada
+Log de execução salvo em: resultados_analise_batch/Canada/analise_log.txt
+
+--- Passo 1: Caracterização da Rede Trófica ---
+Número total de espécies (nós): 34
+Número total de interações (arestas): 166
+Número de espécies basais (produtores primários): 20
+Gerando visualização da rede completa...
+Figura salva em: resultados_analise_batch/Canada/1_rede_inicial.png
+
+--- Passo 2: Análise de Vulnerabilidade (Ranking de Impacto) ---
+Calculando ranking de vulnerabilidade (isso pode levar alguns segundos)...
+Calculando métricas de centralidade...
+
+Top 10 Espécies Mais Críticas:
+                          Espécie  Extinções Totais  Extinções Secundárias  Grau Entrada  Grau Saída  Grau Total  Betweenness  Closeness  PageRank
+                  Ulvaria Obscura                 1                      0             0          11          11         0.00     0.5690    0.0057
+               Littorina Littorea                 1                      0            17           1          18         2.83     0.5789    0.0165
+               Littorina Obtusata                 1                      0            18           2          20         7.92     0.6226    0.0177
+              Littorina Saxatilis                 1                      0            18           1          19         4.58     0.6111    0.0177
+        Testudinalia Testudinalis                 1                      0            17           2          19         7.08     0.6000    0.0165
+               Gammarus Oceanicus                 1                      0            19           3          22        25.08     0.7021    0.0255
+                 Cancer Irroratus                 1                      0            14           1          15         0.00     0.5500    0.3220
+Strongylocentrotus Droebachiensis                 1                      0             9           1          10         0.00     0.4521    0.0107
+       Dictyosiphon Foeniculaceus                 1                      0             0          10          10         0.00     0.5500    0.0057
+                 Alaria Esculenta                 1                      0             0           7           7         0.00     0.4925    0.0057
+
+Ranking completo salvo em: resultados_analise_batch/Canada/2_ranking_vulnerabilidade.csv
+
+--- Passo 3: Dinâmica de Extinção em Cascata (Estudo de Caso) ---
+Simulando cascata para a espécie Keystone: Ulvaria Obscura
+Snapshots da cascata salvos em: resultados_analise_batch/Canada/3_cascata_detalhada
+Total de passos gerados: 3
+
+--- Passo 4: Análise de Robustez (Curvas de Extinção) ---
+Gerando curva de remoção ALEATÓRIA...
+Gerando curva de remoção DIRECIONADA (por vulnerabilidade)...
+Gráfico de robustez salvo em: resultados_analise_batch/Canada/4_curvas_robustez.png
+
+--- Passo 5: Impacto na Dieta dos Sobreviventes ---
+Analisando perda de dieta após extinção de: Ulvaria Obscura
+Histograma de perda de dieta salvo em: resultados_analise_batch/Canada/5_perda_dieta.png
+Total de espécies com alguma perda de dieta: 11
+Espécies com perda crítica (>= 50%): 0

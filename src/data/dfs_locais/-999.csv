@@ -1,0 +1,42 @@
+autoID,interaction.type,con.taxonomy,con.taxonomy.level,res.taxonomy,res.taxonomy.level,geographic.location,con.movement.type,res.movement.type
+181366,predacious,Agelaius Phoeniceus,species,Lynchia Albipennis,species,-999,flying,invertebrate
+181427,predacious,Nephila Clavipes,species,Lynchia Albipennis,species,-999,walking,invertebrate
+181635,predacious,Metepeira Labyrinthea,species,Lynchia Albipennis,species,-999,walking,invertebrate
+181690,predacious,Stoidis Aurata,species,Lynchia Albipennis,species,-999,walking,invertebrate
+181711,predacious,Paraphidippus Flavus,species,Lynchia Albipennis,species,-999,walking,invertebrate
+181737,predacious,Maevia Vittata,species,Lynchia Albipennis,species,-999,walking,invertebrate
+182347,parasitoid,Calliephialtes Ferrugineus,species,Lynchia Albipennis,species,-999,flying,invertebrate
+182349,parasitoid,Casinaria Texana,species,Lynchia Albipennis,species,-999,flying,invertebrate
+182659,predacious,Labidura Riparia,species,Lynchia Albipennis,species,-999,walking,invertebrate
+182799,predacious,Metacyrba Undata,species,Lynchia Albipennis,species,-999,walking,invertebrate
+182923,parasitoid,Brachymeria Psyche,species,Lynchia Albipennis,species,-999,flying,invertebrate
+182949,predacious,Argyrodes Nephilae,species,Lynchia Albipennis,species,-999,walking,invertebrate
+183004,predacious,Leucauge Venusta,species,Lynchia Albipennis,species,-999,walking,invertebrate
+183180,predacious,Argiope Argentata,species,Lynchia Albipennis,species,-999,walking,invertebrate
+183467,parasitoid,Callihormius Bifasciatus,species,Lynchia Albipennis,species,-999,flying,invertebrate
+183473,parasitoid,Iphiaulax Epicus,species,Lynchia Albipennis,species,-999,flying,invertebrate
+183721,parasitoid,Ooencyrtus Submetallicus,species,Lynchia Albipennis,species,-999,flying,invertebrate
+184610,parasitic,Olfersia Sordida,species,Phalacrocorax Dilophus,species,-999,flying,endotherm vertebrate
+184615,parasitic,Argas Radiatus,species,Phalacrocorax Dilophus,species,-999,walking,endotherm vertebrate
+184630,parasitic,Ornitnonyssus Bursa,species,Phalacrocorax Dilophus,species,-999,walking,endotherm vertebrate
+184929,parasitic,Ornitnonyssus Bursa,species,Phalacrocorax Dilophus,species,-999,walking,endotherm vertebrate
+185140,predacious,Agelaius Phoeniceus,species,Lynchia Albipennis,species,-999,flying,invertebrate
+185726,parasitoid,Calliephialtes Ferrugineus,species,Lynchia Albipennis,species,-999,flying,invertebrate
+185728,parasitoid,Casinaria Texana,species,Lynchia Albipennis,species,-999,flying,invertebrate
+186006,predacious,Nephila Clavipes,species,Lynchia Albipennis,species,-999,walking,invertebrate
+186142,predacious,Labidura Riparia,species,Lynchia Albipennis,species,-999,walking,invertebrate
+186387,predacious,Metepeira Labyrinthea,species,Lynchia Albipennis,species,-999,walking,invertebrate
+186401,predacious,Metacyrba Undata,species,Lynchia Albipennis,species,-999,walking,invertebrate
+186552,predacious,Stoidis Aurata,species,Lynchia Albipennis,species,-999,walking,invertebrate
+186591,parasitic,Brachymeria Psyche,species,Lynchia Albipennis,species,-999,flying,invertebrate
+186605,predacious,Paraphidippus Flavus,species,Lynchia Albipennis,species,-999,walking,invertebrate
+186627,predacious,Argyrodes Nephilae,species,Lynchia Albipennis,species,-999,walking,invertebrate
+186692,predacious,Maevia Vittata,species,Lynchia Albipennis,species,-999,walking,invertebrate
+186704,predacious,Leucauge Venusta,species,Lynchia Albipennis,species,-999,walking,invertebrate
+186969,predacious,Argiope Argentata,species,Lynchia Albipennis,species,-999,walking,invertebrate
+187505,parasitoid,Callihormius Bifasciatus,species,Lynchia Albipennis,species,-999,flying,invertebrate
+187511,parasitoid,Iphiaulax Epicus,species,Lynchia Albipennis,species,-999,flying,invertebrate
+187935,parasitoid,Ooencyrtus Submetallicus,species,Lynchia Albipennis,species,-999,flying,invertebrate
+188586,parasitic,Olfersia Sordida,species,Phalacrocorax Dilophus,species,-999,flying,endotherm vertebrate
+188590,parasitic,Argas Radiatus,species,Phalacrocorax Dilophus,species,-999,walking,endotherm vertebrate
+188599,parasitic,Ornitnonyssus Bursa,species,Phalacrocorax Dilophus,species,-999,walking,endotherm vertebrate
